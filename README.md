@@ -25,4 +25,12 @@ Problem
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Virendra2406087/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Virendra2406087/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
