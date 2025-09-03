@@ -8,6 +8,7 @@ Problem
 | ------- |
 | [0001-two-sum](https://github.com/Virendra2406087/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
 ## Hash Table
@@ -50,6 +51,7 @@ Problem
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Virendra2406087/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Virendra2406087/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -75,4 +77,8 @@ Problem
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
