@@ -25,6 +25,7 @@ Problem
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 ## Trie
 |  |
 | ------- |
@@ -58,11 +59,13 @@ Problem
 | [0142-linked-list-cycle-ii](https://github.com/Virendra2406087/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
+| [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 ## Queue
 |  |
 | ------- |
