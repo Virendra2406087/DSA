@@ -36,10 +36,12 @@ Problem
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Virendra2406087/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Virendra2406087/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Virendra2406087/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Virendra2406087/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0206-reverse-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
