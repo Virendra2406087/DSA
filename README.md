@@ -17,6 +17,7 @@ Problem
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -34,4 +35,8 @@ Problem
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Virendra2406087/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
