@@ -29,6 +29,7 @@ Problem
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Virendra2406087/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Virendra2406087/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
