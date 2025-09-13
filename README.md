@@ -101,4 +101,8 @@ Problem
 | ------- |
 | [0134-gas-station](https://github.com/Virendra2406087/DSA/tree/master/0134-gas-station) |
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Virendra2406087/DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
