@@ -56,6 +56,7 @@ Problem
 | [0025-reverse-nodes-in-k-group](https://github.com/Virendra2406087/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
+| [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ Problem
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
+| [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 ## Queue
 |  |
 | ------- |
@@ -106,4 +108,9 @@ Problem
 | ------- |
 | [0007-reverse-integer](https://github.com/Virendra2406087/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Virendra2406087/DSA/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
