@@ -22,10 +22,27 @@ public:
         dp[index]=ans;
         return dp[index];
     }
+    int solveUsingTab(vector<int>&nums,int index){
+        int n=nums.size();
+        vector<int> dp(n+1,-1);
+        dp[n]=0;
+        int temp=0;
+        for(int i=n-1;i>=0;i--){
+            if(i+2<=n){
+                temp=dp[i+2];
+            }
+             int includeAns=nums[i]+temp;
+             int excludeAns=0+dp[i+1];
+             int ans=max(includeAns,excludeAns);
+             dp[i]=ans;
+        }
+        return dp[0];
+
+    }
     int rob(vector<int>& nums) {
         int index=0;
-        vector<int>dp(nums.size()+1,-1);
-        int ans=solveUsingMem(nums,index,dp);
+        // vector<int>dp(nums.size()+1,-1);
+        int ans=solveUsingTab(nums,index);
         return ans;
     }
 };
