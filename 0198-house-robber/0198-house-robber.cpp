@@ -39,10 +39,31 @@ public:
         return dp[0];
 
     }
+    int solveUsingTabSO(vector<int>&nums){
+        int n=nums.size();
+        // vector<int> dp(n+1,-1);
+        int next1=0;
+        int next2=0;
+        int curr;
+        for(int i=n-1;i>=0;i--){
+        int temp=0;
+            if(i+2<=n){
+                temp=next2;
+            }
+             int includeAns=nums[i]+temp;
+             int excludeAns=0+next1;
+             curr=max(includeAns,excludeAns);
+             next2=next1;
+             next1=curr;
+        }
+        return curr;
+
+    }
+
     int rob(vector<int>& nums) {
         int index=0;
         // vector<int>dp(nums.size()+1,-1);
-        int ans=solveUsingTab(nums,index);
+        int ans=solveUsingTabSO(nums);
         return ans;
     }
 };
