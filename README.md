@@ -12,6 +12,7 @@ Problem
 | [0134-gas-station](https://github.com/Virendra2406087/DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
 ## Hash Table
 |  |
@@ -74,6 +75,7 @@ Problem
 |  |
 | ------- |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
@@ -113,4 +115,8 @@ Problem
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
