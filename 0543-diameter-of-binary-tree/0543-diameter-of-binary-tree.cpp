@@ -13,17 +13,19 @@ class Solution {
 public:
     int maxDepth(TreeNode* root){
         if(root==NULL){
-            return 0;
+          return 0;
         }
         int leftans=maxDepth(root->left)+1;
         int rightans=maxDepth(root->right)+1;
-        return max(leftans,rightans);
+        int ans=max(leftans,rightans);
+        return ans;
+
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL){
-            return -0;
+            return 0;
         }
-        int option1=maxDepth(root->right)+maxDepth(root->left);
+        int option1=maxDepth(root->left)+maxDepth(root->right);
         int option2=diameterOfBinaryTree(root->left);
         int option3=diameterOfBinaryTree(root->right);
         int ans=max(option1,max(option2,option3));
