@@ -140,6 +140,7 @@ Problem
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
@@ -164,6 +165,7 @@ Problem
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
@@ -175,4 +177,8 @@ Problem
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
