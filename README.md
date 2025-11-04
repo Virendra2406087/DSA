@@ -144,6 +144,7 @@ Problem
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -157,6 +158,7 @@ Problem
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -173,6 +175,7 @@ Problem
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -190,6 +193,7 @@ Problem
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
