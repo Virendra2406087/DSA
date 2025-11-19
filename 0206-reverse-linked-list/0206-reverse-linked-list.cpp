@@ -10,16 +10,13 @@
  */
 class Solution {
 public:
-    ListNode* reverse(ListNode* head, ListNode* prev) {
-        if (head == NULL) {
-            return prev;
-        }
-        ListNode* forward = head->next;
-        head->next = prev;
-        return reverse(forward, head);
-    }
-
     ListNode* reverseList(ListNode* head) {
-        return reverse(head, NULL); 
+        if(head==NULL || head->next==NULL){
+            return head;
+        }
+        ListNode* temp=reverseList(head->next);
+        head->next->next=head;
+        head->next=NULL;
+        return temp;
     }
 };
