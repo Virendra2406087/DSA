@@ -11,23 +11,22 @@
  */
 class Solution {
 public:
-    int maxDepth(TreeNode* root){
+    int depth(TreeNode* root){
         if(root==NULL){
-          return 0;
+            return 0;
         }
-        int leftans=maxDepth(root->left)+1;
-        int rightans=maxDepth(root->right)+1;
-        int ans=max(leftans,rightans);
+        int left=depth(root->left)+1;
+        int right=depth(root->right)+1;
+        int ans=max(left,right);
         return ans;
-
     }
     int diameterOfBinaryTree(TreeNode* root) {
         if(root==NULL){
             return 0;
         }
-        int option1=maxDepth(root->left)+maxDepth(root->right);
-        int option2=diameterOfBinaryTree(root->left);
-        int option3=diameterOfBinaryTree(root->right);
+        int option1=depth(root->left)+depth(root->right);
+        int option2=diameterOfBinaryTree(root->right);
+        int option3=diameterOfBinaryTree(root->left);
         int ans=max(option1,max(option2,option3));
         return ans;
     }
