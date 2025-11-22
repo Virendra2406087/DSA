@@ -9,33 +9,33 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+//  #include<climits>
 class Solution {
 public:
-    int maxDepth(TreeNode* root){
+    int getHeight(TreeNode* root){
         if(root==NULL){
             return 0;
         }
-        int leftans=maxDepth(root->left);
-        int rightans=maxDepth(root->right);
-        int ans=max(leftans,rightans)+1;
-        return ans;
+        int left=getHeight(root->left);
+        int right=getHeight(root->right);
+        return max(left,right)+1;
     }
     bool isBalanced(TreeNode* root) {
         if(root==NULL){
             return true;
         }
-        int leftans=maxDepth(root->left);
-        int rightans=maxDepth(root->right);
-        int ans=abs(leftans-rightans);
-        if(ans>1){
+        int leftheight=getHeight(root->left);
+        int rightheight=getHeight(root->right);
+        int absdiff=abs(leftheight-rightheight);
+        if(absdiff>1){
             return false;
         }else{
-            bool leftb=isBalanced(root->left);
-            bool rightb=isBalanced(root->right);
-            if(leftb==true && rightb==true){
+            bool leftcheck=isBalanced(root->left);
+            bool rightcheck=isBalanced(root->right);
+            if(leftcheck==true && rightcheck==true){
                 return true;
             }else{
-               return false;
+                return false;
             }
         }
     }
