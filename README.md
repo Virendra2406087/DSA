@@ -14,6 +14,7 @@ Problem
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/Virendra2406087/DSA/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
@@ -99,6 +100,7 @@ Problem
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -108,6 +110,7 @@ Problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
@@ -203,6 +206,7 @@ Problem
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -214,4 +218,8 @@ Problem
 | [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
