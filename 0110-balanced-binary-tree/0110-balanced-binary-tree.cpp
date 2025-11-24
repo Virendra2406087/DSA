@@ -9,25 +9,24 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
-//  #include<climits>
 class Solution {
 public:
-    int getHeight(TreeNode* root){
+    int getheight(TreeNode* root){
         if(root==NULL){
             return 0;
         }
-        int left=getHeight(root->left);
-        int right=getHeight(root->right);
-        return max(left,right)+1;
+        int leftans=getheight(root->left);
+        int rightans=getheight(root->right);
+        return 1+max(leftans,rightans);
     }
     bool isBalanced(TreeNode* root) {
         if(root==NULL){
             return true;
         }
-        int leftheight=getHeight(root->left);
-        int rightheight=getHeight(root->right);
-        int absdiff=abs(leftheight-rightheight);
-        if(absdiff>1){
+        int leftheight=getheight(root->left);
+        int rightheight=getheight(root->right);
+        int diff=abs(rightheight-leftheight);
+        if(diff>1){
             return false;
         }else{
             bool leftcheck=isBalanced(root->left);
