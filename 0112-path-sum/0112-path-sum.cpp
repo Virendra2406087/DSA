@@ -19,16 +19,13 @@ public:
         if(root->left==NULL && root->right==NULL){
             if(sum==targetSum){
                 return true;
-            }else {
+            }else{
                 return false;
             }
         }
-            bool leftans=solve(root->left,targetSum,sum);
-            bool rightans=solve(root->right,targetSum,sum);
-
-        
-        return leftans || rightans;
-        
+        bool leftans=solve(root->left,targetSum,sum);
+        bool rightans=solve(root->right,targetSum,sum);
+        return leftans||rightans;
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
         int sum=0;
