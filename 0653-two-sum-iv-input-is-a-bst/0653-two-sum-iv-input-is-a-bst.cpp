@@ -11,36 +11,36 @@
  */
 class Solution {
 public:
-    void inorderstore(TreeNode* root,vector<int>&inorder){
-       if(root ==NULL){
-          return;
-       }
-        inorderstore(root->left,inorder);
-        inorder.push_back(root->val);
-        inorderstore(root->right,inorder);
+    void inorder(TreeNode* root,vector<int>&ans){
+        if(root==NULL){
+            return;
+        }
+        inorder(root->left,ans);
+        ans.push_back(root->val);
+        inorder(root->right,ans);
+        return;
     }
-    bool checkTarget(vector<int>& arr,int target){
-        int n=arr.size();
+    bool findTarget(TreeNode* root, int k) {
+        if(root==NULL){
+            return false;
+        }
+        vector<int>ans;
+        inorder(root,ans);
         int s=0;
-        int e=n-1;
+        int e=ans.size()-1;
         while(s<e){
-            int sum=arr[s]+arr[e];
-            if(sum==target){
+            int sum=ans[s]+ans[e];
+            if(sum==k){
                 return true;
-            }
-            if(sum<target){
-                s++;
-            }
-            if(sum>target){
-                e--;
+            }else{
+                if(sum>k){
+                    e--;
+                }
+                if(sum<k){
+                    s++;
+                }
             }
         }
         return false;
-    }
-    bool findTarget(TreeNode* root, int k) {
-        vector<int>inorder;
-        inorderstore(root,inorder);
-        bool ans=checkTarget(inorder,k);
-        return ans;
     }
 };
