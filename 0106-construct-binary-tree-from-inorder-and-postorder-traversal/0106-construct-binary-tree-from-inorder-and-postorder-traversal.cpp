@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int getIndex(int element,vector<int>&arr){
+    int getIndex(int element,vector<int>& arr){
         for(int i=0;i<arr.size();i++){
             if(arr[i]==element){
                 return i;
@@ -28,16 +28,16 @@ public:
         }
         int element=postorder[postorderIndex];
         postorderIndex--;
-        int elementIndex=getIndex(element,inorder);
         TreeNode* root=new TreeNode(element);
+        int elementIndex=getIndex(element,inorder);
         root->right=buildTree(inorder,postorder,postorderIndex,elementIndex+1,inorderend);
         root->left=buildTree(inorder,postorder,postorderIndex,inorderstart,elementIndex-1);
         return root;
-            }
+    }
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        int postorderIndex=postorder.size()-1;
         int inorderstart=0;
         int inorderend=inorder.size()-1;
+        int postorderIndex=postorder.size()-1;
         TreeNode* root=buildTree(inorder,postorder,postorderIndex,inorderstart,inorderend);
         return root;
     }
