@@ -63,9 +63,31 @@ public:
         }
         return dp[n][target];
     }
+    int solveUsingTabSO(int n,int k,int target){
+        // vector<vector<long long>>dp(n+1,vector<long long>(target+1,0));
+        vector<int>prev(target+1,0);
+        vector<int>curr(target+1,0);
+        prev[0]=1;
+        for(int a=1;a<=n;a++){
+            for(int t=1;t<=target;t++){
+                long long ans=0;
+                for(int value=1;value<=min(k,target);value++){
+                    long long temp=0;
+                    if(t-value >=0){
+                        temp=prev[t-value]%mod;
+                    }
+                    ans=(ans%mod+temp)%mod;
+                }
+                curr[t]=ans;
+            }
+            prev=curr;
+        }
+        return prev[target];
+    }
+
     int numRollsToTarget(int n, int k, int target) {
-        vector<vector<long long int>>dp(n+1,vector<long long int>(target+1,-1));
-        long long int ans=solveUsingTab(n,k,target);
+        // vector<vector<long long int>>dp(n+1,vector<long long int>(target+1,-1));
+        long long int ans=solveUsingTabSO(n,k,target);
         return ans%mod;
     }
 };
