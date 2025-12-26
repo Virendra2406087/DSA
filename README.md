@@ -11,6 +11,7 @@ Problem
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -231,6 +232,7 @@ Problem
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
 ## Divide and Conquer
 |  |
