@@ -10,6 +10,7 @@ Problem
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
@@ -33,6 +34,7 @@ Problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Virendra2406087/DSA/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Virendra2406087/DSA/tree/master/0141-linked-list-cycle) |
