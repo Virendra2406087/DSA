@@ -77,6 +77,7 @@ Problem
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/Virendra2406087/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Virendra2406087/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -96,6 +97,7 @@ Problem
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Virendra2406087/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Virendra2406087/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/Virendra2406087/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Virendra2406087/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -145,6 +147,7 @@ Problem
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Virendra2406087/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
@@ -255,6 +258,7 @@ Problem
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
@@ -296,4 +300,8 @@ Problem
 | ------- |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Virendra2406087/DSA/tree/master/0074-search-a-2d-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
