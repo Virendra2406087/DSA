@@ -14,6 +14,7 @@ Problem
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Virendra2406087/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -281,10 +282,15 @@ Problem
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Virendra2406087/DSA/tree/master/0287-find-the-duplicate-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
