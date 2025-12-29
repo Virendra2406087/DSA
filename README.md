@@ -9,6 +9,7 @@ Problem
 | [0001-two-sum](https://github.com/Virendra2406087/DSA/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Virendra2406087/DSA/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
@@ -97,6 +98,7 @@ Problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Virendra2406087/DSA/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Virendra2406087/DSA/tree/master/0141-linked-list-cycle) |
