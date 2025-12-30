@@ -1,13 +1,17 @@
 class Solution {
 public:
     void solve(string &s, int i, int k) {
-        if (i >= s.length()) return;
+        if (i >= s.length()){
+            return ;
+        } 
 
         int j = min(i + k - 1, (int)s.length() - 1);
 
         int l = i, r = j;
         while (l < r) {
-            swap(s[l++], s[r--]);
+            swap(s[l], s[r]);
+            l++;
+            r--;
         }
 
         solve(s, i + 2*k, k);
