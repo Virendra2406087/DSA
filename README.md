@@ -36,6 +36,7 @@ Problem
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0416-partition-equal-subset-sum](https://github.com/Virendra2406087/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Virendra2406087/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/Virendra2406087/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Virendra2406087/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -53,6 +54,7 @@ Problem
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Virendra2406087/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
