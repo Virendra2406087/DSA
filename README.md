@@ -142,6 +142,7 @@ Problem
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Virendra2406087/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
+| [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Virendra2406087/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 ## Queue
 |  |
 | ------- |
