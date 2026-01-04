@@ -72,6 +72,7 @@ Problem
 | [0541-reverse-string-ii](https://github.com/Virendra2406087/DSA/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/Virendra2406087/DSA/tree/master/0796-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/Virendra2406087/DSA/tree/master/0953-reverse-only-letters) |
 ## Trie
 |  |
@@ -338,4 +339,8 @@ Problem
 |  |
 | ------- |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Virendra2406087/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
