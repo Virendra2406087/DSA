@@ -37,6 +37,7 @@ Problem
 | [0416-partition-equal-subset-sum](https://github.com/Virendra2406087/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Virendra2406087/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2057-smallest-index-with-equal-value](https://github.com/Virendra2406087/DSA/tree/master/2057-smallest-index-with-equal-value) |
@@ -127,6 +128,7 @@ Problem
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Virendra2406087/DSA/tree/master/0953-reverse-only-letters) |
+| [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -174,6 +176,7 @@ Problem
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
