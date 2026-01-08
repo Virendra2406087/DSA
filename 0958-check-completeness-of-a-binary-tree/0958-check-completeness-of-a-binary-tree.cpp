@@ -14,20 +14,21 @@ public:
     bool isCompleteTree(TreeNode* root) {
         queue<TreeNode*>q;
         q.push(root);
-        bool nullFound=false;
+        bool nullfound=false;
         while(!q.empty()){
             TreeNode* front=q.front();
             q.pop();
             if(front==NULL){
-                nullFound=true;
+                nullfound = true;
             }else{
-                if(nullFound==true){
+                if(nullfound==true){
                     return false;
                 }
-                q.push(front->left);
-                q.push(front->right);
+            q.push(front->left);
+            q.push(front->right);
             }
         }
-        return true;
+
+       return true;
     }
 };
