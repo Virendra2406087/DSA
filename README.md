@@ -35,6 +35,7 @@ Problem
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Virendra2406087/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
@@ -165,6 +166,7 @@ Problem
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -181,6 +183,7 @@ Problem
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -334,6 +337,7 @@ Problem
 | [0300-longest-increasing-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -362,6 +366,7 @@ Problem
 | ------- |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Virendra2406087/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
 ## Merge Sort
 |  |
