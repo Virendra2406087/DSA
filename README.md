@@ -62,6 +62,7 @@ Problem
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Virendra2406087/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
@@ -227,6 +228,7 @@ Problem
 | [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -252,6 +254,7 @@ Problem
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -272,6 +275,7 @@ Problem
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -298,6 +302,7 @@ Problem
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
