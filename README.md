@@ -13,6 +13,7 @@ Problem
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
@@ -54,6 +55,7 @@ Problem
 | ------- |
 | [0001-two-sum](https://github.com/Virendra2406087/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Virendra2406087/DSA/tree/master/0141-linked-list-cycle) |
@@ -73,6 +75,7 @@ Problem
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
@@ -185,6 +188,7 @@ Problem
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Virendra2406087/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
