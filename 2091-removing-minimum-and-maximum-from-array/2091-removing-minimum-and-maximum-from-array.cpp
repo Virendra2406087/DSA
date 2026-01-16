@@ -32,10 +32,10 @@ public:
             swap(minIndex, maxIndex);
         }
 
-        int option1 = maxIndex + 1;
-        int option2 = n - minIndex;                
-        int option3 = (minIndex + 1) + (n - maxIndex);
+        int ans1 = maxIndex + 1;
+        int ans2 = n - minIndex;                
+        int ans3 = (minIndex + 1) + (n - maxIndex);
 
-        return min({option1, option2, option3});
+        return min({ans1, ans2, ans3});
     }
 };
