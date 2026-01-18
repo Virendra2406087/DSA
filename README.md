@@ -54,6 +54,7 @@ Problem
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Virendra2406087/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2057-smallest-index-with-equal-value](https://github.com/Virendra2406087/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Virendra2406087/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -84,6 +85,7 @@ Problem
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Virendra2406087/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -453,6 +455,7 @@ Problem
 | ------- |
 | [0169-majority-element](https://github.com/Virendra2406087/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/0229-majority-element-ii) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
 ## String Matching
