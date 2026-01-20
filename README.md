@@ -290,6 +290,7 @@ Problem
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Virendra2406087/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Virendra2406087/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -333,6 +334,7 @@ Problem
 | [0112-path-sum](https://github.com/Virendra2406087/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -502,4 +504,12 @@ Problem
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
