@@ -32,6 +32,7 @@ Problem
 | [0169-majority-element](https://github.com/Virendra2406087/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Virendra2406087/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/Virendra2406087/DSA/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/0229-majority-element-ii) |
@@ -292,6 +293,7 @@ Problem
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Virendra2406087/DSA/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Virendra2406087/DSA/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Virendra2406087/DSA/tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
@@ -338,6 +340,7 @@ Problem
 | [0112-path-sum](https://github.com/Virendra2406087/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Virendra2406087/DSA/tree/master/0210-course-schedule-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -452,6 +455,7 @@ Problem
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Virendra2406087/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/Virendra2406087/DSA/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -525,5 +529,6 @@ Problem
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
