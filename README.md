@@ -309,6 +309,7 @@ Problem
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Virendra2406087/DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -367,6 +368,7 @@ Problem
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Virendra2406087/DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -547,6 +549,7 @@ Problem
 | [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Virendra2406087/DSA/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Virendra2406087/DSA/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Virendra2406087/DSA/tree/master/0997-find-the-town-judge) |
@@ -560,6 +563,7 @@ Problem
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Biconnected Component
 |  |
