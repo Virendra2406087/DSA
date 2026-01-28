@@ -292,6 +292,7 @@ Problem
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
+| [1103-distribute-candies-to-people](https://github.com/Virendra2406087/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -474,6 +475,7 @@ Problem
 | ------- |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
+| [1103-distribute-candies-to-people](https://github.com/Virendra2406087/DSA/tree/master/1103-distribute-candies-to-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
