@@ -11,26 +11,25 @@
 class Solution {
 public:
     int length(ListNode* head){
-        int count=0;
         ListNode* temp=head;
-        while(temp !=NULL){
+        int count=0;
+        while(temp != NULL){
             count++;
             temp=temp->next;
         }
+
         return count;
     }
-
-    ListNode* getmid(ListNode* head){
+    ListNode* getMid(ListNode* head){
         ListNode* slow=head;
         ListNode* fast=head;
-        while(fast !=NULL && fast->next !=NULL){
-            slow=slow->next;          
-            fast=fast->next->next;    
+        while(fast != NULL && fast->next != NULL){
+            fast=fast->next->next;
+            slow=slow->next;
         }
         return slow;
     }
-
-    ListNode* reverselinkedlist(ListNode* head){
+    ListNode* reverselist(ListNode* head){
         ListNode* prev=NULL;
         ListNode* curr=head;
         while(curr !=NULL){
@@ -41,28 +40,25 @@ public:
         }
         return prev;  
     }
-
     bool isPalindrome(ListNode* head) {
         int len=length(head);
-        ListNode* mid=getmid(head);
-        ListNode* finalmid=NULL;
-
+        ListNode* mid=getMid(head);
+        ListNode* finalMid=NULL;
         if(len & 1){
-            finalmid=mid->next;
+            finalMid=mid->next;
         }else{
-            finalmid=mid;
+            finalMid=mid;
         }
-
-        finalmid=reverselinkedlist(finalmid);
+        finalMid=reverselist(finalMid);
         ListNode* temp=head;
-        while(temp !=NULL && finalmid !=NULL){
-            if(temp->val != finalmid->val){
+        while(temp != NULL && finalMid != NULL){
+            if(temp->val != finalMid->val){
                 return false;
             }else{
                 temp=temp->next;
-                finalmid=finalmid->next;
+                finalMid=finalMid->next;
             }
         }
-        return true;  
+       return true;
     }
 };
