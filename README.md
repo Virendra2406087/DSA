@@ -150,6 +150,7 @@ Problem
 | [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -184,6 +185,7 @@ Problem
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Virendra2406087/DSA/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
