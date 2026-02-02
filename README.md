@@ -55,6 +55,7 @@ Problem
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
+| [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Virendra2406087/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/Virendra2406087/DSA/tree/master/0989-add-to-array-form-of-integer) |
@@ -140,6 +141,7 @@ Problem
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Virendra2406087/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
@@ -502,6 +504,7 @@ Problem
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
+| [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [1103-distribute-candies-to-people](https://github.com/Virendra2406087/DSA/tree/master/1103-distribute-candies-to-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
