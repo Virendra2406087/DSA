@@ -10,44 +10,61 @@
  */
 class Solution {
 public:
-    ListNode* merge(ListNode* l1, ListNode* l2){
-        ListNode dummy;
-        ListNode* tail = &dummy;
+    ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
+        if(list1==nullptr){
+            return list2;
+        }
+        if(list2==nullptr){
+            return list1;
+        }
+        ListNode* head=nullptr;
+        ListNode* tail=nullptr;
 
-        while(l1 && l2){
-            if(l1->val < l2->val){
-                tail->next = l1;
-                l1 = l1->next;
-            } else {
-                tail->next = l2;
-                l2 = l2->next;
+        ListNode* temp1=list1;
+        ListNode* temp2=list2;
+        while(temp1 != nullptr && temp2 != nullptr){
+            ListNode* node;
+            if(temp1->val<=temp2->val){
+                node=temp1;
+                temp1=temp1->next;
+            }else{
+                node=temp2;
+                temp2=temp2->next;
             }
-            tail = tail->next;
+            if(head==nullptr){
+                head=node;
+                tail=node;
+            }else{
+                tail->next=node;
+                tail=node;
+            }
         }
-        tail->next = l1 ? l1 : l2;
-        return dummy.next;
+        while(temp1 != nullptr){
+            tail->next=temp1;
+            tail=temp1;
+            temp1=temp1->next;
+        }
+        while(temp2 != nullptr){
+            tail->next=temp2;
+            tail=temp2;
+            temp2=temp2->next;
+        }
+        return head;
     }
-
     ListNode* sortList(ListNode* head) {
-        if(!head || !head->next) return head;
-
-        // find middle
-        ListNode* slow = head;
-        ListNode* fast = head->next;
-
-        while(fast && fast->next){
-            slow = slow->next;
-            fast = fast->next->next;
+        if(!head || !head->next){
+            return head;
         }
-
-        ListNode* mid = slow->next;
-        slow->next = NULL;
-
-        // sort halves
-        ListNode* left = sortList(head);
-        ListNode* right = sortList(mid);
-
-        // merge
-        return merge(left, right);
+        ListNode* slow=head;
+        ListNode* fast=head->next;
+        while(fast && fast->next){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode* mid=slow->next;
+        slow->next=nullptr;
+        ListNode* left=sortList(head);
+        ListNode* right=sortList(mid);
+        return mergeTwoLists(left,right);
     }
 };
