@@ -157,6 +157,7 @@ Problem
 | [0084-largest-rectangle-in-histogram](https://github.com/Virendra2406087/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
 | [0225-implement-stack-using-queues](https://github.com/Virendra2406087/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Virendra2406087/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Virendra2406087/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
@@ -266,6 +267,7 @@ Problem
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Virendra2406087/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Virendra2406087/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
 ## Sliding Window
 |  |
@@ -632,6 +634,7 @@ Problem
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/Virendra2406087/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Virendra2406087/DSA/tree/master/0232-implement-queue-using-stacks) |
 ## Graph Theory
 |  |
 | ------- |
