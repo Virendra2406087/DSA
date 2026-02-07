@@ -138,6 +138,7 @@ Problem
 | [0796-rotate-string](https://github.com/Virendra2406087/DSA/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0953-reverse-only-letters](https://github.com/Virendra2406087/DSA/tree/master/0953-reverse-only-letters) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
 ## Trie
 |  |
@@ -160,6 +161,7 @@ Problem
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
