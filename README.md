@@ -85,6 +85,7 @@ Problem
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Virendra2406087/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Hash Table
@@ -174,6 +175,7 @@ Problem
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Linked List
 |  |
 | ------- |
@@ -375,6 +377,7 @@ Problem
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Memoization
 |  |
 | ------- |
@@ -643,6 +646,7 @@ Problem
 | [0084-largest-rectangle-in-histogram](https://github.com/Virendra2406087/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
+| [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Geometry
 |  |
 | ------- |
