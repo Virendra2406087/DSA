@@ -282,6 +282,7 @@ Problem
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Virendra2406087/DSA/tree/master/0933-number-of-recent-calls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -654,6 +655,7 @@ Problem
 | [0232-implement-queue-using-stacks](https://github.com/Virendra2406087/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
+| [0933-number-of-recent-calls](https://github.com/Virendra2406087/DSA/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
 | ------- |
@@ -689,4 +691,8 @@ Problem
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Virendra2406087/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Virendra2406087/DSA/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
