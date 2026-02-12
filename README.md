@@ -549,6 +549,7 @@ Problem
 | [0300-longest-increasing-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Virendra2406087/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -708,4 +709,5 @@ Problem
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Virendra2406087/DSA/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Virendra2406087/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
