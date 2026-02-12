@@ -544,6 +544,7 @@ Problem
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Virendra2406087/DSA/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Virendra2406087/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -703,4 +704,8 @@ Problem
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Virendra2406087/DSA/tree/master/0933-number-of-recent-calls) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Virendra2406087/DSA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
