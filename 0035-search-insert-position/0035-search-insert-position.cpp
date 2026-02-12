@@ -1,24 +1,20 @@
 class Solution {
 public:
-    int searchIndex(vector<int>& nums, int s, int e, int target) {
-        if (s > e) {
+    int search(vector<int>& nums,int target,int s,int e){
+        if(s>e){
             return s;
         }
-
-        int mid = s + (e - s) / 2;
-
-        if (nums[mid] == target) {
+        int mid=s+(e-s)/2;
+        if(nums[mid]==target){
             return mid;
         }
-        else if (nums[mid] > target) {
-            return searchIndex(nums, s, mid - 1, target);
-        }
-        else {
-            return searchIndex(nums, mid + 1, e, target);
+        if(nums[mid]<target){
+            return search(nums,target,mid+1,e);
+        }else{
+            return search(nums,target,s,mid-1);
         }
     }
-
     int searchInsert(vector<int>& nums, int target) {
-        return searchIndex(nums, 0, nums.size() - 1, target);
+        return search(nums,target,0,nums.size()-1);
     }
 };
