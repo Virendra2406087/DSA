@@ -87,6 +87,7 @@ Problem
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/Virendra2406087/DSA/tree/master/3683-earliest-time-to-finish-one-task) |
@@ -566,6 +567,7 @@ Problem
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Quickselect
 |  |
 | ------- |
@@ -621,6 +623,7 @@ Problem
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
 ## String Matching
 |  |
