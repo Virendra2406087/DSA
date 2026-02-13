@@ -59,6 +59,7 @@ Problem
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
+| [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
@@ -243,6 +244,7 @@ Problem
 | [0567-permutation-in-string](https://github.com/Virendra2406087/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
@@ -296,6 +298,7 @@ Problem
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Virendra2406087/DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -305,6 +308,7 @@ Problem
 | [0347-top-k-frequent-elements](https://github.com/Virendra2406087/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/Virendra2406087/DSA/tree/master/0743-network-delay-time) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
@@ -334,6 +338,7 @@ Problem
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Virendra2406087/DSA/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -555,6 +560,7 @@ Problem
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
