@@ -33,6 +33,7 @@ Problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Virendra2406087/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Virendra2406087/DSA/tree/master/0134-gas-station) |
+| [0162-find-peak-element](https://github.com/Virendra2406087/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Virendra2406087/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Virendra2406087/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
@@ -551,6 +552,7 @@ Problem
 | [0074-search-a-2d-matrix](https://github.com/Virendra2406087/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0162-find-peak-element](https://github.com/Virendra2406087/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Virendra2406087/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
