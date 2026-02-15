@@ -17,6 +17,7 @@ Problem
 | [0035-search-insert-position](https://github.com/Virendra2406087/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Virendra2406087/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
@@ -329,6 +330,7 @@ Problem
 | ------- |
 | [0015-3sum](https://github.com/Virendra2406087/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Virendra2406087/DSA/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Virendra2406087/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Virendra2406087/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
@@ -521,6 +523,7 @@ Problem
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Virendra2406087/DSA/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Virendra2406087/DSA/tree/master/0052-n-queens-ii) |
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
