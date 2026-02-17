@@ -6,36 +6,43 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right)
+ *         : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
     vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        if(root==NULL){
+        vector<vector<int>> ans;
+        if (root == nullptr) {
             return ans;
         }
-        queue<TreeNode*>q;
+
+        queue<TreeNode*> q;
         q.push(root);
-        q.push(NULL);
-        vector<int>level;
-        while(!q.empty()){
-            TreeNode* front=q.front();
+        q.push(nullptr);
+
+        vector<int> level;
+
+        while (!q.empty()) {
+            TreeNode* front = q.front();
             q.pop();
-            if(front==NULL){
+
+            if (front == nullptr) {
                 ans.push_back(level);
                 level.clear();
-                if(!q.empty()){
-                    q.push(NULL);
+
+                if (!q.empty()) {
+                    q.push(nullptr);
                 }
-            }else{
+            } else {
                 level.push_back(front->val);
 
-                if(front->left != NULL) {
+                if (front->left != nullptr) {
                     q.push(front->left);
                 }
-                if(front->right != NULL) {
+                if (front->right != nullptr) {
                     q.push(front->right);
                 }
             }
