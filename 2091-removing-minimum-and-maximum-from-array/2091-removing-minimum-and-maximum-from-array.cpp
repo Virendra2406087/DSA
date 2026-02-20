@@ -31,7 +31,6 @@ public:
         if (minIndex > maxIndex){
             swap(minIndex, maxIndex);
         }
-
         int ans1 = maxIndex + 1;
         int ans2 = n - minIndex;                
         int ans3 = (minIndex + 1) + (n - maxIndex);
