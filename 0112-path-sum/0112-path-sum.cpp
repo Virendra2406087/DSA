@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    bool solve(TreeNode* root,int targetSum,int sum){
+    bool solve(TreeNode* root,int target,int sum){
         if(root==nullptr){
             return false;
         }
         sum=sum+root->val;
-        if(root->left==nullptr && root->right==nullptr){
-            if(sum==targetSum){
+        if(root->left ==nullptr && root->right==nullptr){
+            if(sum==target){
                 return true;
             }else{
                 return false;
             }
         }
-        bool left=solve(root->left,targetSum,sum); 
-        bool right=solve(root->right,targetSum,sum); 
+        bool left=solve(root->left,target,sum);
+        bool right=solve(root->right,target,sum);
         return left||right;
     }
     bool hasPathSum(TreeNode* root, int targetSum) {
