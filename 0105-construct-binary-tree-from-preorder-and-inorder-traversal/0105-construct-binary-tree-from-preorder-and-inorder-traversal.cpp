@@ -11,35 +11,34 @@
  */
 class Solution {
 public:
-    int getIndex(int element,  vector<int>& arr){
-        for(int i = 0; i < arr.size(); i++){
-            if(arr[i] == element){
+    int getIndex(int element,vector<int>&arr){
+        for(int i=0;i<arr.size();i++){
+            if(arr[i]==element){
                 return i;
             }
         }
         return -1;
     }
-
-    TreeNode* buildTree(vector<int>& preorder,vector<int>& inorder,int &preorderIndex,int inorderstart,int inorderEnd){
-        if(preorderIndex>=preorder.size()){
-            return NULL;
+    TreeNode* build(vector<int>&preorder,vector<int>&inorder,int &preorderIndex,int inorderstart,int inorderend){
+        if(inorderstart>inorderend){
+            return nullptr;
         }
-        if(inorderstart>inorderEnd){
-            return NULL;
+        if(preorderIndex>=preorder.size()){
+            return nullptr;
         }
         int element=preorder[preorderIndex];
         preorderIndex++;
         TreeNode* root=new TreeNode(element);
-        int elementInorderIndexorder=getIndex(element,inorder);
-        root->left=buildTree(preorder,inorder,preorderIndex,inorderstart,elementInorderIndexorder-1);
-        root->right=buildTree(preorder,inorder,preorderIndex,elementInorderIndexorder+1,inorderEnd);
+        int elementIndex=getIndex(element,inorder);
+        root->left=build(preorder,inorder,preorderIndex,inorderstart,elementIndex-1);
+        root->right=build(preorder,inorder,preorderIndex,elementIndex+1,inorderend);
         return root;
     }
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
         int preorderIndex=0;
         int inorderstart=0;
-        int inorderEnd=inorder.size()-1;
-        TreeNode* root=buildTree(preorder,inorder,preorderIndex,inorderstart,inorderEnd);
+        int inorderend=inorder.size()-1;
+        TreeNode* root=build(preorder,inorder,preorderIndex,inorderstart,inorderend);
         return root;
     }
 };
