@@ -11,8 +11,8 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root ,int level,vector<int>&ans){
-        if(root==NULL){
+    void solve(TreeNode* root,int level,vector<int>&ans){
+        if(root==nullptr){
             return;
         }
         if(level==ans.size()){
