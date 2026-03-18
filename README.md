@@ -483,6 +483,7 @@ Problem
 | [0144-binary-tree-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Virendra2406087/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -567,6 +568,7 @@ Problem
 | [0144-binary-tree-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Virendra2406087/DSA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Virendra2406087/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -622,6 +624,7 @@ Problem
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0162-find-peak-element](https://github.com/Virendra2406087/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Virendra2406087/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Virendra2406087/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
@@ -668,6 +671,7 @@ Problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0029-divide-two-integers) |
+| [0222-count-complete-tree-nodes](https://github.com/Virendra2406087/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Virendra2406087/DSA/tree/master/0287-find-the-duplicate-number) |
