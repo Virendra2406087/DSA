@@ -12,59 +12,55 @@
 class Solution {
 public:
     int getMax(TreeNode* root){
-        if(root==NULL){
+        if(root==nullptr){
             return -1;
         }
-        while(root->right !=NULL){
+        while(root->right != nullptr){
             root=root->right;
         }
         return root->val;
     }
     TreeNode* deleteNode(TreeNode* root, int key) {
-        // case-1 zero root
-        if(root==NULL){
-            return NULL;
+        if(root==nullptr){
+            return nullptr;
         }
         if(root->val==key){
-
-        
-        // case-2 only root
-        if(root->left == NULL && root->right == NULL){
-            TreeNode* temp=root;
-            delete temp;
-            return NULL;
-        }
-        // case-3 only left child
-        if(root->left !=NULL && root->right ==NULL){
-            TreeNode* temp=root;
-            TreeNode* child=root->left;
-            temp->left=NULL;
-            delete temp;
-            return child;
-        }
-        // case-4 only right child
-        if(root->left ==NULL && root->right !=NULL){
-            TreeNode* temp=root;
-            TreeNode* child=root->right;
-            temp->right=NULL;
-            delete temp;
-            return child;
-        }
-        // case-5 two child
-        if(root->left !=NULL && root->right !=NULL){
-            int replaceVal=getMax(root->left);
-            root->val=replaceVal;
-            root->left=deleteNode(root->left,replaceVal);
-            return root;
-        }
-        }
-        else{
+            // 0-child
+            if(root->left == nullptr && root->right==nullptr){
+                TreeNode* temp=root;
+                delete temp;
+                return nullptr;
+            }
+            // 1-child-left
+            if(root->left != nullptr && root->right == nullptr){
+                TreeNode* temp=root;
+                TreeNode* child=root->left;
+                temp->left=nullptr;
+                delete temp;
+                return child;
+            }
+            // 1-child-right
+            if(root->left == nullptr && root->right != nullptr){
+                TreeNode* temp=root;
+                TreeNode* child=root->right;
+                temp->right=nullptr;
+                delete temp;
+                return child;
+            }
+            // 2-child
+            if(root->left != nullptr && root->right != nullptr){
+                int replace=getMax(root->left);
+                root->val=replace;
+                root->left=deleteNode(root->left,replace);
+                return root;
+            }
+        }else{
             if(key>root->val){
                 root->right=deleteNode(root->right,key);
             }else{
                 root->left=deleteNode(root->left,key);
             }
         }
-       return root;
+        return root;
     }
 };
