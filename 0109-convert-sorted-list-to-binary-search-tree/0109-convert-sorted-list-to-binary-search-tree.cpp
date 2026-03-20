@@ -33,9 +33,6 @@ public:
         return count;
     }
     TreeNode* solve(ListNode* &head,int n){
-        if(head==nullptr){
-            return nullptr;
-        }
         if(n<=0){
             return nullptr;
         }
