@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    TreeNode* solve(vector<int>& nums,int s,int e){
+    TreeNode* solve(vector<int>&nums,int s,int e){
         if(s>e){
-            return NULL;
+            return nullptr;
         }
-        int mid=(s+e)/2;
+        int mid=s+(e-s)/2;
         int element=nums[mid];
         TreeNode* root=new TreeNode(element);
         root->left=solve(nums,s,mid-1);
-        root->right= solve(nums,mid+1,e);
+        root->right=solve(nums,mid+1,e);
         return root;
     }
     TreeNode* sortedArrayToBST(vector<int>& nums) {
