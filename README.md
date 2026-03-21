@@ -502,6 +502,7 @@ Problem
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Virendra2406087/DSA/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Virendra2406087/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -545,6 +546,7 @@ Problem
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Virendra2406087/DSA/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Virendra2406087/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Virendra2406087/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -598,6 +600,7 @@ Problem
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/Virendra2406087/DSA/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/Virendra2406087/DSA/tree/master/0513-find-bottom-left-tree-value) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
@@ -664,6 +667,7 @@ Problem
 | [0374-guess-number-higher-or-lower](https://github.com/Virendra2406087/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Virendra2406087/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
