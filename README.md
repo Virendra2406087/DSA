@@ -62,6 +62,7 @@ Problem
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
+| [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Virendra2406087/DSA/tree/master/0704-binary-search) |
@@ -193,6 +194,7 @@ Problem
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Virendra2406087/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -511,6 +513,7 @@ Problem
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -612,6 +615,7 @@ Problem
 | [0543-diameter-of-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -648,6 +652,7 @@ Problem
 | [0215-kth-largest-element-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Virendra2406087/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
@@ -789,6 +794,7 @@ Problem
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Virendra2406087/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
+| [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
