@@ -16,18 +16,20 @@ public:
         q.push(root);
         bool nullFound=false;
         while(!q.empty()){
-            TreeNode* front=q.front();
+            TreeNode* frontNode=q.front();
             q.pop();
-            if(front==NULL){
+            if(frontNode==nullptr){
                 nullFound=true;
             }else{
                 if(nullFound==true){
                     return false;
+                }else{
+                    q.push(frontNode->left);
+                    q.push(frontNode->right);
                 }
-                q.push(front->left);
-                q.push(front->right);
             }
         }
         return true;
+
     }
 };
