@@ -36,8 +36,30 @@ public:
         return dp[n];
 
     }
+    int solveUsingTabSO(int n){
+        //1. 1-D dp
+
+        vector<int>dp(n+1);
+        //2. base case
+        if(n==0){
+            return 0;
+        }
+        if(n==1){
+            return 1;
+        }
+        int prev2=0;
+        int prev1=1;
+        int curr=-1;
+        for(int i=2;i<=n;i++){
+            curr=prev2+prev1;
+            prev2=prev1;
+            prev1=curr;
+        }
+        return curr;
+
+    }
     int fib(int n) {
-        int ans=solveUsingTab(n);
+        int ans=solveUsingTabSO(n);
         return ans;
     }
 };
