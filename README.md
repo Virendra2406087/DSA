@@ -163,6 +163,7 @@ Problem
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
+| [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Virendra2406087/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Virendra2406087/DSA/tree/master/0567-permutation-in-string) |
@@ -441,6 +442,7 @@ Problem
 | [0371-sum-of-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0371-sum-of-two-integers) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Virendra2406087/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0445-add-two-numbers-ii](https://github.com/Virendra2406087/DSA/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Virendra2406087/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
