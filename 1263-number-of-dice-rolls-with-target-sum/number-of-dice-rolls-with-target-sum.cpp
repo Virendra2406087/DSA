@@ -44,8 +44,24 @@ public:
         dp[n][target]= ans;
         return dp[n][target];
     }
+    int solveUsingTab(int n,int k,int target){
+        vector<vector<long long int>>dp(n+1,vector<long long int>(target+1,0));
+        dp[0][0]=1;
+        for(int d=1;d<=n;d++){
+            for(int t=1;t<=target;t++){
+            long long int ans=0;
+        for(int val=1;val<=k;val++){
+            if(t-val>=0){
+                ans=(ans+dp[d-1][t-val])%mod;
+            }
+        }
+        dp[d][t]= ans;
+            }
+        }
+        return dp[n][target];
+    }
     int numRollsToTarget(int n, int k, int target) {
-        vector<vector<long long int>>dp(n+1,vector<long long int>(target+1,-1));
-        return solveUsingMem(n,k,target,dp);
+        vector<vector<long long int>>dp(n+1,vector<long long int>(target+1,0));
+        return solveUsingTab(n,k,target);
     }
 };
