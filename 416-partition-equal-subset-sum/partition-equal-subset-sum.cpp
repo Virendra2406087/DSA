@@ -54,6 +54,20 @@ public:
         }
        return dp[target][0];
     }
+    bool solveUsingTabSO(vector<int>& nums, int target) {
+    int n = nums.size();
+    vector<int> dp(target+1, 0);
+
+    dp[0] = 1;
+
+    for(int i = 0; i < n; i++) {
+        for(int t = target; t >= nums[i]; t--) {
+            dp[t] = dp[t] || dp[t - nums[i]];
+        }
+    }
+
+    return dp[target];
+}
     bool canPartition(vector<int>& nums) {
         int sum=0;
         for(int i=0;i<nums.size();i++){
@@ -63,7 +77,7 @@ public:
             return 0;
         }
         int target=sum/2;
-        bool ans=solveUsingTab(nums,target);
+        bool ans=solveUsingTabSO(nums,target);
         return ans;
     }
 };
