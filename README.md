@@ -16,6 +16,7 @@ Problem
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Virendra2406087/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
+| [0045-jump-game-ii](https://github.com/Virendra2406087/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Virendra2406087/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
@@ -303,6 +304,7 @@ Problem
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/Virendra2406087/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Virendra2406087/DSA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
@@ -416,6 +418,7 @@ Problem
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Virendra2406087/DSA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Virendra2406087/DSA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Virendra2406087/DSA/tree/master/0134-gas-station) |
