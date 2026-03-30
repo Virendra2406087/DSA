@@ -33,6 +33,7 @@ Problem
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/Virendra2406087/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Virendra2406087/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Virendra2406087/DSA/tree/master/0134-gas-station) |
@@ -309,6 +310,7 @@ Problem
 | [0055-jump-game](https://github.com/Virendra2406087/DSA/tree/master/0055-jump-game) |
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Virendra2406087/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Virendra2406087/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
