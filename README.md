@@ -310,6 +310,7 @@ Problem
 | [0045-jump-game-ii](https://github.com/Virendra2406087/DSA/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Virendra2406087/DSA/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/Virendra2406087/DSA/tree/master/0120-triangle) |
@@ -447,6 +448,7 @@ Problem
 | [0050-powx-n](https://github.com/Virendra2406087/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Virendra2406087/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Virendra2406087/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Virendra2406087/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Virendra2406087/DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
@@ -472,6 +474,7 @@ Problem
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1137-n-th-tribonacci-number) |
