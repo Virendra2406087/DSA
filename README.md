@@ -169,6 +169,7 @@ Problem
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Virendra2406087/DSA/tree/master/0541-reverse-string-ii) |
@@ -284,6 +285,7 @@ Problem
 | [0287-find-the-duplicate-number](https://github.com/Virendra2406087/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0392-is-subsequence) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/Virendra2406087/DSA/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/Virendra2406087/DSA/tree/master/0567-permutation-in-string) |
@@ -322,6 +324,7 @@ Problem
 | [0337-house-robber-iii](https://github.com/Virendra2406087/DSA/tree/master/0337-house-robber-iii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Virendra2406087/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Virendra2406087/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0392-is-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Virendra2406087/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0516-longest-palindromic-subsequence) |
