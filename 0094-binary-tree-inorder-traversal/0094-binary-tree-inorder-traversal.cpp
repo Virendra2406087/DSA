@@ -15,12 +15,12 @@ public:
         if(root==nullptr){
             return;
         }
+        // LNR
         solve(root->left,ans);
         ans.push_back(root->val);
         solve(root->right,ans);
     }
     vector<int> inorderTraversal(TreeNode* root) {
-        // LNR
         vector<int>ans;
         solve(root,ans);
         return ans;
