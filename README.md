@@ -166,6 +166,7 @@ Problem
 | [0076-minimum-window-substring](https://github.com/Virendra2406087/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
@@ -205,6 +206,7 @@ Problem
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Virendra2406087/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Virendra2406087/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
@@ -259,6 +261,7 @@ Problem
 | [0025-reverse-nodes-in-k-group](https://github.com/Virendra2406087/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Virendra2406087/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Virendra2406087/DSA/tree/master/0326-power-of-three) |
@@ -454,6 +457,7 @@ Problem
 | [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Virendra2406087/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Virendra2406087/DSA/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Virendra2406087/DSA/tree/master/0326-power-of-three) |
