@@ -86,6 +86,7 @@ Problem
 | [0994-rotting-oranges](https://github.com/Virendra2406087/DSA/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Virendra2406087/DSA/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Virendra2406087/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
@@ -226,6 +227,7 @@ Problem
 | [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -348,6 +350,7 @@ Problem
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Virendra2406087/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Virendra2406087/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -445,6 +448,7 @@ Problem
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Virendra2406087/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
@@ -867,6 +871,7 @@ Problem
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 ## Geometry
 |  |
