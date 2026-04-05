@@ -328,6 +328,7 @@ Problem
 | [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/Virendra2406087/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Virendra2406087/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -466,6 +467,7 @@ Problem
 | [0066-plus-one](https://github.com/Virendra2406087/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Virendra2406087/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Virendra2406087/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Virendra2406087/DSA/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
@@ -536,6 +538,7 @@ Problem
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Virendra2406087/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Virendra2406087/DSA/tree/master/0101-symmetric-tree) |
@@ -642,6 +645,7 @@ Problem
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Virendra2406087/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Virendra2406087/DSA/tree/master/0101-symmetric-tree) |
@@ -728,6 +732,7 @@ Problem
 | [0035-search-insert-position](https://github.com/Virendra2406087/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Virendra2406087/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Virendra2406087/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
