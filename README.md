@@ -276,6 +276,7 @@ Problem
 | [0326-power-of-three](https://github.com/Virendra2406087/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Virendra2406087/DSA/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
@@ -350,6 +351,7 @@ Problem
 | [0583-delete-operation-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
@@ -498,6 +500,7 @@ Problem
 | ------- |
 | [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
+| [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1137-n-th-tribonacci-number) |
 ## Breadth-First Search
@@ -581,6 +584,7 @@ Problem
 | [0700-search-in-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Virendra2406087/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -688,6 +692,7 @@ Problem
 | [0700-search-in-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Virendra2406087/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
