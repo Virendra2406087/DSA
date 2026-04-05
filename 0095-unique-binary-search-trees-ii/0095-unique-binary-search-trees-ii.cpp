@@ -30,7 +30,31 @@ public:
         }
         return ans;
     }
+    vector<TreeNode*>solveUsingMem(int start,int end,vector<vector<vector<TreeNode*>>>& dp){
+        if(start>end){
+            return {nullptr};
+        }
+        if(!dp[start][end].empty()){
+            return dp[start][end];
+        }
+        vector<TreeNode*>ans;
+        for(int i=start;i<=end;i++){
+            vector<TreeNode*>left_bst=solveUsingMem(start,i-1,dp);
+            vector<TreeNode*>right_bst=solveUsingMem(i+1,end,dp);
+            for(TreeNode* leftRoot:left_bst){
+                for(TreeNode* rightRoot:right_bst){
+                    TreeNode* root=new TreeNode(i);
+                    root->left=leftRoot;
+                    root->right=rightRoot;
+                    ans.push_back(root);
+                }
+            }
+        }
+        dp[start][end]= ans;
+        return dp[start][end];
+    }
     vector<TreeNode*> generateTrees(int n) {
-        return solve(1,n);
+        vector<vector<vector<TreeNode*>>> dp(n + 1,vector<vector<TreeNode*>>(n + 1));
+        return solveUsingMem(1,n,dp);
     }
 };
