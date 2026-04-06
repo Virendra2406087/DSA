@@ -1,52 +1,49 @@
 class Solution {
 public:
-    int solve(string &s1,string &s2,int i,int j){
-        int m=s1.length();
-        int n=s2.length();
-        if(i==m){
-            return n-j;
+    int solve(string& a,string &b,int i,int j){
+        if(i==a.length()){
+            return b.length()-j;
         }
-        if(j==n){
-            return m-i;
+        if(j==b.length()){
+            return a.length()-i;
         }
-        if(s1[i]==s2[j]){
-            return solve(s1,s2,i+1,j+1);
+        int ans=0;
+        if(a[i]==b[j]){
+            ans=solve(a,b,i+1,j+1);
+        }else{
+            int insert=1+solve(a,b,i,j+1);
+            int deleted=1+solve(a,b,i+1,j);
+            int replace=1+solve(a,b,i+1,j+1);
+            ans=min(insert,min(deleted,replace));
         }
-        
-        int insert=1+solve(s1,s2,i,j+1);
-        int deleted=1+solve(s1,s2,i+1,j);
-        int replace=1+solve(s1,s2,i+1,j+1);
-
-        return min({insert,deleted,replace});
+        return ans;
     }
-    int solveMem(string &s1,string &s2,int i,int j,vector<vector<int>> &dp){
-        int m=s1.length();
-        int n=s2.length();
-        if(i==m){
-            return n-j;
+    int solveUsingMem(string& a,string &b,int i,int j,vector<vector<int>>&dp){
+        if(i==a.length()){
+            return b.length()-j;
         }
-        if(j==n){
-            return m-i;
+        if(j==b.length()){
+            return a.length()-i;
         }
         if(dp[i][j] != -1){
             return dp[i][j];
         }
-        if(s1[i]==s2[j]){
-            return solveMem(s1,s2,i+1,j+1,dp);
+        int ans=0;
+        if(a[i]==b[j]){
+            ans=solveUsingMem(a,b,i+1,j+1,dp);
+        }else{
+            int insert=1+solveUsingMem(a,b,i,j+1,dp);
+            int deleted=1+solveUsingMem(a,b,i+1,j,dp);
+            int replace=1+solveUsingMem(a,b,i+1,j+1,dp);
+            ans=min(insert,min(deleted,replace));
         }
-        
-        int insert=1+solveMem(s1,s2,i,j+1,dp);
-        int deleted=1+solveMem(s1,s2,i+1,j,dp);
-        int replace=1+solveMem(s1,s2,i+1,j+1,dp);
-
-        dp[i][j] = min({insert,deleted,replace});
+        dp[i][j]= ans;
         return dp[i][j];
     }
     int minDistance(string word1, string word2) {
-        int m=word1.length();
-        int n=word2.length();
-        vector<vector<int>>dp(m+1,vector<int>(n+1,-1));
-        int ans=solveMem(word1,word2,0,0,dp);
-        return ans;
+        int n=word1.size();
+        int m=word2.size();
+        vector<vector<int>>dp(n+1,vector<int>(m+1,-1));
+        return solveUsingMem(word1,word2,0,0,dp);
     }
 };
