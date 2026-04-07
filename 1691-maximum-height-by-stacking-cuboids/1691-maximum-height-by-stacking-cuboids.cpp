@@ -53,6 +53,23 @@ public:
         }
         return dp[0][0];
     }
+    int solveUsingTabSO(vector<vector<int>>& cuboids){
+        int n=cuboids.size();
+        vector<int>currRow(n+1,0);
+        vector<int>nextRow(n+1,0);
+        for(int currInd=n-1;currInd>=0;currInd--){
+            for(int prevInd=currInd-1;prevInd>=-1;prevInd--){
+                int include=0;
+                if(prevInd ==-1 || check(cuboids[currInd],cuboids[prevInd])){
+                    include = cuboids[currInd][2] + nextRow[currInd + 1];
+                }
+                int exclude=0+nextRow[prevInd+1];
+                currRow[prevInd+1] = max(include, exclude);
+            }
+            nextRow=currRow;
+        }
+        return nextRow[0];
+    }
     int maxHeight(vector<vector<int>>& cuboids) {
         int n=cuboids.size();
         vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
@@ -60,6 +77,6 @@ public:
             sort(c.begin(), c.end());
         }
         sort(cuboids.begin(), cuboids.end());
-        return solveUsingTab(cuboids);
+        return solveUsingTabSO(cuboids);
     }
 };
