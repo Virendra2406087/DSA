@@ -21,11 +21,30 @@ public:
         int exclude=0+solve(cuboids,currIndex+1,prevIndex);
         return max(include,exclude);
     }
+    int solveUsingMem(vector<vector<int>>& cuboids,int currIndex,int prevIndex,vector<vector<int>>& dp){
+        int n=cuboids.size();
+        int m=cuboids[0].size();
+        if(currIndex == cuboids.size()){
+            return 0;
+        } 
+        if(dp[prevIndex+1][currIndex] != -1){
+            return dp[prevIndex+1][currIndex];
+        }
+        int include=0;
+        if(prevIndex ==-1 || check(cuboids[currIndex],cuboids[prevIndex])){
+            include = cuboids[currIndex][2] + solveUsingMem(cuboids, currIndex + 1, currIndex,dp);
+        }
+        int exclude=0+solveUsingMem(cuboids,currIndex+1,prevIndex,dp);
+        dp[prevIndex+1][currIndex]= max(include,exclude);
+        return dp[prevIndex+1][currIndex];
+    }
     int maxHeight(vector<vector<int>>& cuboids) {
+        int n=cuboids.size();
+        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
         for(auto &c : cuboids) {
             sort(c.begin(), c.end());
         }
         sort(cuboids.begin(), cuboids.end());
-        return solve(cuboids,0,-1);
+        return solveUsingMem(cuboids,0,-1,dp);
     }
 };
