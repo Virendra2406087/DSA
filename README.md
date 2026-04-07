@@ -170,6 +170,7 @@ Problem
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Virendra2406087/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Virendra2406087/DSA/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Virendra2406087/DSA/tree/master/0227-basic-calculator-ii) |
@@ -336,6 +337,7 @@ Problem
 | [0120-triangle](https://github.com/Virendra2406087/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Virendra2406087/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/Virendra2406087/DSA/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Virendra2406087/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Virendra2406087/DSA/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Virendra2406087/DSA/tree/master/0221-maximal-square) |
@@ -717,6 +719,7 @@ Problem
 | [0052-n-queens-ii](https://github.com/Virendra2406087/DSA/tree/master/0052-n-queens-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Virendra2406087/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Virendra2406087/DSA/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Virendra2406087/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
