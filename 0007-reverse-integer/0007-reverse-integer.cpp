@@ -1,16 +1,18 @@
 class Solution {
 public:
     int reverse(int x) {
-        long long int sum=0;
-        while(x !=0){
-        int digit=x%10;
-        sum=sum*10+digit;
-        x=x/10;
-        }
-        if (sum > INT_MAX || sum < INT_MIN) {
+        int rev=0;
+        while(x != 0){
+            int pop=x%10;
+            x=x/10;
+            if(rev>INT_MAX/10 || rev==INT_MAX/10 && pop>7){
                 return 0;
             }
-
-        return sum;
+            if(rev<INT_MIN/10 || rev==INT_MIN/10 && pop<-8){
+                return 0;
+            }
+            rev=rev*10+pop;
+        }
+        return rev;
     }
 };
