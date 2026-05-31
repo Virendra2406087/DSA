@@ -1,11 +1,15 @@
 class Solution {
 public:
-    bool isSafe(int i,int j,vector<vector<char>>& grid,map<pair<int,int>,bool>& visited){
+    bool isSafe(int newX,int newY,vector<vector<char>> & grid,map<pair<int,int>,bool>& visited){
         int n=grid.size();
         int m=grid[0].size();
-        if(i>=0 && i<n && j>=0 && j<m && grid[i][j]=='1' && !visited[{i,j}]){
+        if(newX>=0 && newX<n &&
+   newY>=0 && newY<m &&
+   grid[newX][newY]=='1' &&
+   !visited[{newX,newY}]) {
             return true;
-        }return false;
+        }
+        return false;
     }
     void bfs(int i,int j,vector<vector<char>>& grid,map<pair<int,int>,bool>& visited){
         int n=grid.size();
@@ -28,13 +32,14 @@ public:
                     visited[{newX,newY}]=true;
                 }
             }
+
         }
     }
     int numIslands(vector<vector<char>>& grid) {
-        int n=grid.size();
-        int m=grid[0].size();
         map<pair<int,int>,bool>visited;
         int count=0;
+        int n=grid.size();
+        int m=grid[0].size();
         for(int i=0;i<n;i++){
             for(int j=0;j<m;j++){
                 if(!visited[{i,j}] && grid[i][j]=='1'){
