@@ -87,6 +87,7 @@ Problem
 | [0997-find-the-town-judge](https://github.com/Virendra2406087/DSA/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1200-minimum-absolute-difference](https://github.com/Virendra2406087/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Virendra2406087/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
@@ -437,6 +438,7 @@ Problem
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/Virendra2406087/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Virendra2406087/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Virendra2406087/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
