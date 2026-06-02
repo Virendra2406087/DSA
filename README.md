@@ -199,6 +199,7 @@ Problem
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Virendra2406087/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [3340-check-balanced-string](https://github.com/Virendra2406087/DSA/tree/master/3340-check-balanced-string) |
 ## Trie
 |  |
