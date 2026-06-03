@@ -128,6 +128,7 @@ Problem
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Virendra2406087/DSA/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Virendra2406087/DSA/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Virendra2406087/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Virendra2406087/DSA/tree/master/0076-minimum-window-substring) |
@@ -169,6 +170,7 @@ Problem
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Virendra2406087/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Virendra2406087/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0013-roman-to-integer](https://github.com/Virendra2406087/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -492,6 +494,7 @@ Problem
 | [0002-add-two-numbers](https://github.com/Virendra2406087/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Virendra2406087/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Virendra2406087/DSA/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Virendra2406087/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Virendra2406087/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Virendra2406087/DSA/tree/master/0066-plus-one) |
