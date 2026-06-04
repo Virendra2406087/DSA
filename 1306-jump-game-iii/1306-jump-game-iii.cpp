@@ -5,7 +5,7 @@ public:
         unordered_map<int,bool>visited;
         q.push(start);
         visited[start]=1;
-        while(!q.empty()){
+        while(! q.empty()){
             int front=q.front();
             q.pop();
             if(arr[front]==0){
