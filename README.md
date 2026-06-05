@@ -22,6 +22,7 @@ Problem
 | [0045-jump-game-ii](https://github.com/Virendra2406087/DSA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Virendra2406087/DSA/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Virendra2406087/DSA/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Virendra2406087/DSA/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Virendra2406087/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Virendra2406087/DSA/tree/master/0053-maximum-subarray) |
@@ -516,6 +517,7 @@ Problem
 | [0012-integer-to-roman](https://github.com/Virendra2406087/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Virendra2406087/DSA/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/Virendra2406087/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Virendra2406087/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Virendra2406087/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Virendra2406087/DSA/tree/master/0066-plus-one) |
@@ -877,6 +879,7 @@ Problem
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Virendra2406087/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Virendra2406087/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
