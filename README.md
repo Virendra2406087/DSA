@@ -116,6 +116,7 @@ Problem
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Virendra2406087/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Virendra2406087/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Virendra2406087/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Virendra2406087/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Virendra2406087/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
@@ -353,6 +354,7 @@ Problem
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Virendra2406087/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2465-number-of-distinct-averages](https://github.com/Virendra2406087/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2562-find-the-array-concatenation-value](https://github.com/Virendra2406087/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -875,6 +877,7 @@ Problem
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [1103-distribute-candies-to-people](https://github.com/Virendra2406087/DSA/tree/master/1103-distribute-candies-to-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/Virendra2406087/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2562-find-the-array-concatenation-value](https://github.com/Virendra2406087/DSA/tree/master/2562-find-the-array-concatenation-value) |
 ## Bit Manipulation
 |  |
