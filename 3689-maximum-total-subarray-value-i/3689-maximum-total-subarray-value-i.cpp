@@ -9,6 +9,6 @@ public:
         for(auto i:nums){
             mini=min(mini,i);
         }
-        return 1L*(maxi-mini)*k;
+        return 1LL*(maxi-mini)*k;
     }
 };
