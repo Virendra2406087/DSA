@@ -10,55 +10,73 @@
  */
 class Solution {
 public:
-    int length(ListNode* head){
-        ListNode* temp=head;
-        int count=0;
-        while(temp != NULL){
+    ListNode* reverseList(ListNode* head) {
+        if (head == nullptr) {
+            return nullptr;
+        }
+
+        ListNode* prev = nullptr;
+        ListNode* curr = head;
+
+        while (curr != nullptr) {
+            ListNode* forward = curr->next;
+            curr->next = prev;
+            prev = curr;
+            curr = forward;
+        }
+
+        return prev;
+    }
+
+    int length(ListNode* head) {
+        int count = 0;
+        ListNode* temp = head;
+
+        while (temp != nullptr) {
             count++;
-            temp=temp->next;
+            temp = temp->next;
         }
 
         return count;
     }
-    ListNode* getMid(ListNode* head){
-        ListNode* slow=head;
-        ListNode* fast=head;
-        while(fast != NULL && fast->next != NULL){
-            fast=fast->next->next;
-            slow=slow->next;
+
+    ListNode* middleNode(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while (fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
+
         return slow;
     }
-    ListNode* reverselist(ListNode* head){
-        ListNode* prev=NULL;
-        ListNode* curr=head;
-        while(curr !=NULL){
-            ListNode* forward=curr->next;
-            curr->next=prev;
-            prev=curr;
-            curr=forward;
-        }
-        return prev;  
-    }
+
     bool isPalindrome(ListNode* head) {
-        int len=length(head);
-        ListNode* mid=getMid(head);
-        ListNode* finalMid=NULL;
-        if(len & 1){
-            finalMid=mid->next;
-        }else{
-            finalMid=mid;
+        int n = length(head);
+
+        ListNode* mid = middleNode(head);
+        ListNode* finalMid = nullptr;
+
+        if (n & 1) {
+            finalMid = mid->next;
+        } else {
+            finalMid = mid;
         }
-        finalMid=reverselist(finalMid);
-        ListNode* temp=head;
-        while(temp != NULL && finalMid != NULL){
-            if(temp->val != finalMid->val){
+
+        ListNode* reversed = reverseList(finalMid);
+        ListNode* temp1 = head;
+        ListNode* temp2 = reversed;
+
+        while (temp2 != nullptr) {
+            if (temp1->val != temp2->val) {
                 return false;
-            }else{
-                temp=temp->next;
-                finalMid=finalMid->next;
             }
+
+            temp1 = temp1->next;
+            temp2 = temp2->next;
         }
-       return true;
+
+        return true;
     }
 };
