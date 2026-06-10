@@ -297,6 +297,7 @@ Problem
 | [0445-add-two-numbers-ii](https://github.com/Virendra2406087/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
+| [0707-design-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -1000,6 +1001,7 @@ Problem
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Virendra2406087/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/Virendra2406087/DSA/tree/master/0933-number-of-recent-calls) |
 ## Graph Theory
 |  |
