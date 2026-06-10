@@ -131,6 +131,7 @@ Problem
 | [2670-find-the-distinct-difference-array](https://github.com/Virendra2406087/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/Virendra2406087/DSA/tree/master/3151-special-array-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Virendra2406087/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -184,6 +185,7 @@ Problem
 | [2465-number-of-distinct-averages](https://github.com/Virendra2406087/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2670-find-the-distinct-difference-array](https://github.com/Virendra2406087/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
@@ -302,6 +304,7 @@ Problem
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
