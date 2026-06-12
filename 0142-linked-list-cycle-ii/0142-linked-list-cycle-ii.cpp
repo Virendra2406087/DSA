@@ -12,12 +12,12 @@ public:
         unordered_map<ListNode*,bool>visited;
         ListNode* temp=head;
         while(temp != nullptr){
-          if(visited[temp]==true){
-            return temp;
-          }else{
-            visited[temp]=true;
-            temp=temp->next;
-          }
+            if(visited[temp]==true){
+                return temp;
+            }else{
+                visited[temp]=true;
+                temp=temp->next;
+            }
         }
         return nullptr;
     }
