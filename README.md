@@ -134,6 +134,7 @@ Problem
 | [3151-special-array-i](https://github.com/Virendra2406087/DSA/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Virendra2406087/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -190,6 +191,7 @@ Problem
 | [2670-find-the-distinct-difference-array](https://github.com/Virendra2406087/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3668-restore-finishing-order](https://github.com/Virendra2406087/DSA/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
@@ -321,6 +323,7 @@ Problem
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -481,6 +484,7 @@ Problem
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Virendra2406087/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
 |  |
@@ -928,6 +932,7 @@ Problem
 | [2161-partition-array-according-to-given-pivot](https://github.com/Virendra2406087/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/Virendra2406087/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2562-find-the-array-concatenation-value](https://github.com/Virendra2406087/DSA/tree/master/2562-find-the-array-concatenation-value) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3838-weighted-word-mapping](https://github.com/Virendra2406087/DSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
@@ -1010,6 +1015,7 @@ Problem
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -1102,4 +1108,8 @@ Problem
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
