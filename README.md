@@ -248,6 +248,7 @@ Problem
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Virendra2406087/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3340-check-balanced-string](https://github.com/Virendra2406087/DSA/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/Virendra2406087/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Virendra2406087/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Virendra2406087/DSA/tree/master/3838-weighted-word-mapping) |
 ## Trie
 |  |
@@ -946,6 +947,7 @@ Problem
 | [2562-find-the-array-concatenation-value](https://github.com/Virendra2406087/DSA/tree/master/2562-find-the-array-concatenation-value) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Virendra2406087/DSA/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/Virendra2406087/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Virendra2406087/DSA/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
