@@ -78,6 +78,7 @@ Problem
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/Virendra2406087/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Virendra2406087/DSA/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
@@ -284,6 +285,7 @@ Problem
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
+| [0682-baseball-game](https://github.com/Virendra2406087/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Virendra2406087/DSA/tree/master/0844-backspace-string-compare) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
@@ -942,6 +944,7 @@ Problem
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Virendra2406087/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Virendra2406087/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
