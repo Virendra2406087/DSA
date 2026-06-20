@@ -216,6 +216,7 @@ Problem
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Virendra2406087/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Virendra2406087/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Virendra2406087/DSA/tree/master/0076-minimum-window-substring) |
@@ -594,6 +595,7 @@ Problem
 | [0050-powx-n](https://github.com/Virendra2406087/DSA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Virendra2406087/DSA/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Virendra2406087/DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Virendra2406087/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Virendra2406087/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Virendra2406087/DSA/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
@@ -948,6 +950,7 @@ Problem
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Virendra2406087/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Virendra2406087/DSA/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Virendra2406087/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Virendra2406087/DSA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
@@ -966,6 +969,7 @@ Problem
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Virendra2406087/DSA/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Virendra2406087/DSA/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Virendra2406087/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
