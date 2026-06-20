@@ -113,6 +113,7 @@ Problem
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Virendra2406087/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1732-find-the-highest-altitude](https://github.com/Virendra2406087/DSA/tree/master/1732-find-the-highest-altitude) |
+| [1840-maximum-building-height](https://github.com/Virendra2406087/DSA/tree/master/1840-maximum-building-height) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Virendra2406087/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -545,6 +546,7 @@ Problem
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Virendra2406087/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [1840-maximum-building-height](https://github.com/Virendra2406087/DSA/tree/master/1840-maximum-building-height) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Virendra2406087/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Virendra2406087/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -619,6 +621,7 @@ Problem
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Virendra2406087/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
+| [1840-maximum-building-height](https://github.com/Virendra2406087/DSA/tree/master/1840-maximum-building-height) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
