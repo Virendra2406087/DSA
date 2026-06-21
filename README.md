@@ -141,6 +141,7 @@ Problem
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
 | [3151-special-array-i](https://github.com/Virendra2406087/DSA/tree/master/3151-special-array-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3290-maximum-multiplication-score](https://github.com/Virendra2406087/DSA/tree/master/3290-maximum-multiplication-score) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -461,6 +462,7 @@ Problem
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Virendra2406087/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Virendra2406087/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Virendra2406087/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
+| [3290-maximum-multiplication-score](https://github.com/Virendra2406087/DSA/tree/master/3290-maximum-multiplication-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Virendra2406087/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Virendra2406087/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
