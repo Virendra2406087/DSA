@@ -179,6 +179,7 @@ Problem
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Virendra2406087/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Virendra2406087/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -232,6 +233,7 @@ Problem
 | [0257-binary-tree-paths](https://github.com/Virendra2406087/DSA/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Virendra2406087/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0516-longest-palindromic-subsequence) |
@@ -536,6 +538,7 @@ Problem
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/Virendra2406087/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/Virendra2406087/DSA/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Virendra2406087/DSA/tree/master/0561-array-partition) |
@@ -986,6 +989,7 @@ Problem
 | [0287-find-the-duplicate-number](https://github.com/Virendra2406087/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Virendra2406087/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Virendra2406087/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
