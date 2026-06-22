@@ -9,14 +9,11 @@ public:
             }else{
                 if(st.empty()){
                     return false;
-                }
-                else if(ch==')' && st.top() != '('){
+                }else if(ch==')' && st.top() != '('){
                     return false;
-                }
-                else if(ch=='}' && st.top() != '{'){
+                }else if(ch=='}' && st.top() != '{'){
                     return false;
-                }
-                else if(ch==']' && st.top() != '['){
+                }else if(ch==']' && st.top() != '['){
                     return false;
                 }else{
                     st.pop();
