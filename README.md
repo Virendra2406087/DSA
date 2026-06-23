@@ -236,6 +236,7 @@ Problem
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Virendra2406087/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Virendra2406087/DSA/tree/master/0541-reverse-string-ii) |
@@ -626,6 +627,7 @@ Problem
 | [0371-sum-of-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/Virendra2406087/DSA/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Virendra2406087/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Virendra2406087/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0445-add-two-numbers-ii](https://github.com/Virendra2406087/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
@@ -998,6 +1000,7 @@ Problem
 | [0342-power-of-four](https://github.com/Virendra2406087/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Virendra2406087/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Virendra2406087/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
