@@ -448,6 +448,7 @@ Problem
 | [0312-burst-balloons](https://github.com/Virendra2406087/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/Virendra2406087/DSA/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/Virendra2406087/DSA/tree/master/0338-counting-bits) |
 | [0354-russian-doll-envelopes](https://github.com/Virendra2406087/DSA/tree/master/0354-russian-doll-envelopes) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Virendra2406087/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Virendra2406087/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -1001,6 +1002,7 @@ Problem
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Virendra2406087/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Virendra2406087/DSA/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Virendra2406087/DSA/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
