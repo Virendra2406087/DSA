@@ -185,6 +185,7 @@ Problem
 | [0347-top-k-frequent-elements](https://github.com/Virendra2406087/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Virendra2406087/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/Virendra2406087/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0496-next-greater-element-i](https://github.com/Virendra2406087/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
@@ -243,6 +244,7 @@ Problem
 | [0316-remove-duplicate-letters](https://github.com/Virendra2406087/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Virendra2406087/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Virendra2406087/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Virendra2406087/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Virendra2406087/DSA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Virendra2406087/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -494,6 +496,7 @@ Problem
 | [0225-implement-stack-using-queues](https://github.com/Virendra2406087/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Virendra2406087/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Virendra2406087/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Virendra2406087/DSA/tree/master/0933-number-of-recent-calls) |
@@ -1055,6 +1058,7 @@ Problem
 | [0169-majority-element](https://github.com/Virendra2406087/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Virendra2406087/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Virendra2406087/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Virendra2406087/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
