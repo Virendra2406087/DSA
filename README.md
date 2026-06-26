@@ -643,6 +643,7 @@ Problem
 | [0227-basic-calculator-ii](https://github.com/Virendra2406087/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Virendra2406087/DSA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/Virendra2406087/DSA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Virendra2406087/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Virendra2406087/DSA/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Virendra2406087/DSA/tree/master/0357-count-numbers-with-unique-digits) |
@@ -993,6 +994,7 @@ Problem
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Virendra2406087/DSA/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Virendra2406087/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 ## Simulation
 |  |
@@ -1213,4 +1215,8 @@ Problem
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Virendra2406087/DSA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
