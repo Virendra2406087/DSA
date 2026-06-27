@@ -1158,6 +1158,7 @@ Problem
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Virendra2406087/DSA/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Virendra2406087/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [1791-find-center-of-star-graph](https://github.com/Virendra2406087/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
