@@ -1,29 +1,22 @@
 class Solution {
 public:
-    bool canVisitAllRooms(vector<vector<int>>& rooms) {
-     int n=rooms.size();
-     queue<int>q;
-     unordered_map<int,bool>visited;
-     int visitedCount=0;
-     int src=0;
-     q.push(src);
-     visited[src]=true;
-     visitedCount++;
-     while(!q.empty()){
-        int front=q.front();
-        q.pop();
-        for(auto nbr:rooms[front]){
-            if(!visited[nbr]){
-                q.push(nbr);
-                visited[nbr]=true;
-                visitedCount++;
+    void dfs(vector<vector<int>>& rooms,int src,vector<bool> &visited){
+        visited[src]=true;
+        for(int &node :rooms[src]){
+            if(!visited[node]){
+               dfs(rooms,node,visited);
             }
         }
-     }   
-     if(visitedCount==n){
+    }
+    bool canVisitAllRooms(vector<vector<int>>& rooms) {
+        int n=rooms.size();
+        vector<bool>visited(n,false);
+        dfs(rooms,0,visited);
+        for(bool x:visited){
+            if(x==false){
+                return false;
+            }
+        }
         return true;
-     }else{
-        return false;
-     }
     }
 };
