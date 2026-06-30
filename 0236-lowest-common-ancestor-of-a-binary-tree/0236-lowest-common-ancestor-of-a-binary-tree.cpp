@@ -23,10 +23,12 @@ public:
         TreeNode* rightAns=lowestCommonAncestor(root->right,p,q);
         if(leftAns==nullptr && rightAns==nullptr){
             return nullptr;
-        }else if(leftAns != nullptr && rightAns==nullptr){
-            return leftAns;
-        }else if(leftAns == nullptr && rightAns != nullptr){
+        }
+        else if(leftAns==nullptr && rightAns !=nullptr){
             return rightAns;
+        }
+        else if(leftAns !=nullptr && rightAns==nullptr){
+            return leftAns;
         }else{
             return root;
         }
