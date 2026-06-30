@@ -11,20 +11,20 @@
  */
 class Solution {
 public:
-    int getHeight(TreeNode* root){
+    int height(TreeNode* root){
         if(root==nullptr){
             return 0;
         }
-        int left=getHeight(root->left);
-        int right=getHeight(root->right);
+        int left=height(root->left);
+        int right=height(root->right);
         return max(left,right)+1;
     }
     bool isBalanced(TreeNode* root) {
         if(root==nullptr){
             return true;
         }
-        int left=getHeight(root->left);
-        int right=getHeight(root->right);
+        int left=height(root->left);
+        int right=height(root->right);
         int diff=abs(left-right);
         if(diff>1){
             return false;
@@ -37,7 +37,5 @@ public:
                 return false;
             }
         }
-
-
     }
 };
