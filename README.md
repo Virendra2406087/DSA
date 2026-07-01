@@ -141,6 +141,7 @@ Problem
 | [2574-left-and-right-sum-differences](https://github.com/Virendra2406087/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Virendra2406087/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2670-find-the-distinct-difference-array](https://github.com/Virendra2406087/DSA/tree/master/2670-find-the-distinct-difference-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Virendra2406087/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Virendra2406087/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Virendra2406087/DSA/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -549,6 +550,7 @@ Problem
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Virendra2406087/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Monotonic Queue
@@ -732,6 +734,7 @@ Problem
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Virendra2406087/DSA/tree/master/1306-jump-game-iii) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Tree
 |  |
 | ------- |
@@ -999,6 +1002,7 @@ Problem
 | [2089-find-target-indices-after-sorting-array](https://github.com/Virendra2406087/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Virendra2406087/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Virendra2406087/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Quickselect
@@ -1067,6 +1071,7 @@ Problem
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Virendra2406087/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1185,6 +1190,7 @@ Problem
 | [0547-number-of-provinces](https://github.com/Virendra2406087/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Biconnected Component
 |  |
 | ------- |
