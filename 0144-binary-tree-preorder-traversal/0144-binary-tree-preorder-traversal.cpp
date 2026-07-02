@@ -13,16 +13,16 @@ class Solution {
 public:
     void solve(TreeNode* root,vector<int>& ans){
         if(root==nullptr){
-            return;
+            return ;
         }
+        // NLR
         ans.push_back(root->val);
         solve(root->left,ans);
         solve(root->right,ans);
     }
     vector<int> preorderTraversal(TreeNode* root) {
-        // NLR
-       vector<int>ans;
-       solve(root,ans);
-       return ans;
+        vector<int>ans;
+        solve(root,ans);
+        return ans;
     }
 };
