@@ -1,23 +1,23 @@
 class Solution {
 public:
-    void dfs(int src,int dest,vector<int>& tempPaths,vector<vector<int>>&paths,vector<vector<int>>& graph){
-        tempPaths.push_back(src);
-        if(src==dest){
-            paths.push_back(tempPaths);
-            return;
+    void dfs(vector<vector<int>>& graph,int src,int target,vector<vector<int>> &ans,vector<int> &temp){
+        temp.push_back(src);
+        if(src==target){
+            ans.push_back(temp);
+        }else{
+            for(int v:graph[src]){
+                dfs(graph,v,target,ans,temp);
+            }
         }
-        for(auto nbr:graph[src]){
-            dfs(nbr,dest,tempPaths,paths,graph);
-            // backTracking
-            tempPaths.pop_back();
-        }
+        temp.pop_back();
     }
     vector<vector<int>> allPathsSourceTarget(vector<vector<int>>& graph) {
-        vector<int>tempPaths;
-        vector<vector<int>>paths;
         int src=0;
-        int dest=graph.size()-1;
-        dfs(src,dest,tempPaths,paths,graph);
-        return paths;
+        int n=graph.size();
+        int target=n-1;
+        vector<int>temp;
+        vector<vector<int>>ans;
+        dfs(graph,src,target,ans,temp);
+        return ans;
     }
 };
