@@ -101,6 +101,7 @@ Problem
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Virendra2406087/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
+| [1301-number-of-paths-with-max-score](https://github.com/Virendra2406087/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1306-jump-game-iii](https://github.com/Virendra2406087/DSA/tree/master/1306-jump-game-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Virendra2406087/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -496,6 +497,7 @@ Problem
 | [1143-longest-common-subsequence](https://github.com/Virendra2406087/DSA/tree/master/1143-longest-common-subsequence) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Virendra2406087/DSA/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Virendra2406087/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1301-number-of-paths-with-max-score](https://github.com/Virendra2406087/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Virendra2406087/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Virendra2406087/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -1077,6 +1079,7 @@ Problem
 | [0417-pacific-atlantic-water-flow](https://github.com/Virendra2406087/DSA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Virendra2406087/DSA/tree/master/0994-rotting-oranges) |
+| [1301-number-of-paths-with-max-score](https://github.com/Virendra2406087/DSA/tree/master/1301-number-of-paths-with-max-score) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Virendra2406087/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
