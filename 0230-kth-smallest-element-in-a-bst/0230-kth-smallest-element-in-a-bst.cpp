@@ -11,21 +11,21 @@
  */
 class Solution {
 public:
-    void solve(TreeNode* root,int &count,int k,TreeNode* &ans){
+    void solve(TreeNode * root,int k,priority_queue<int>&pq){
         if(root==nullptr){
             return;
         }
-        solve(root->left,count,k,ans);
-        count++;
-        if(count==k){
-            ans=root;
+        
+        pq.push(root->val);
+        if(pq.size()>k){
+            pq.pop();
         }
-        solve(root->right,count,k,ans);
+        solve(root->left,k,pq);
+        solve(root->right,k,pq);
     }
     int kthSmallest(TreeNode* root, int k) {
-        int count=0;
-        TreeNode* ans=nullptr;
-        solve(root,count,k,ans);
-        return ans->val;
+        priority_queue<int>pq;
+        solve(root,k,pq);
+        return pq.top();
     }
 };
