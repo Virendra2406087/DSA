@@ -11,37 +11,34 @@
  */
 class Solution {
 public:
-    void inorder(TreeNode* root,vector<int>& ans){
+    void inorderStore(TreeNode* root,vector<int>& ans){
         if(root==nullptr){
             return;
         }
-        inorder(root->left,ans);
+        inorderStore(root->left,ans);
         ans.push_back(root->val);
-        inorder(root->right,ans);
+        inorderStore(root->right,ans);
     }
-    bool checkTwoSum(vector<int>& ans,int k){
+    bool check(vector<int>& ans,int k){
         int n=ans.size();
-        int s=0;
-        int e=n-1;
-        while(s<e){
-            int sum=ans[s]+ans[e];
-            if(sum==k){
+        int i=0,j=n-1;
+        while(i<j){
+            int sum=ans[i]+ans[j];
+            if(sum == k){
                 return true;
             }
-            if(sum>k){
-                e--;
+            if(sum > k){
+                j--;
             }
-            if(sum<k){
-                s++;
+            if(sum < k){
+                i++;
             }
-
         }
         return false;
     }
     bool findTarget(TreeNode* root, int k) {
         vector<int>ans;
-        inorder(root,ans);
-        bool result=checkTwoSum(ans,k);
-        return result;
+        inorderStore(root,ans);
+        return check(ans,k);
     }
 };
