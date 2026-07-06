@@ -11,15 +11,15 @@
  */
 class Solution {
 public:
-    void storeInorder(TreeNode* root,vector<int>&inorderNode){
+    void inorderStore(TreeNode* root,vector<int>& ans){
         if(root==nullptr){
             return;
         }
-        storeInorder(root->left,inorderNode);
-        inorderNode.push_back(root->val);
-        storeInorder(root->right,inorderNode);
+        inorderStore(root->left,ans);
+        ans.push_back(root->val);
+        inorderStore(root->right,ans);
     }
-    void updateTree(TreeNode* root,vector<int>&ans,int &index){
+    void updateTree(TreeNode* root,vector<int>& ans,int &index){
         if(root==nullptr){
             return;
         }
@@ -28,6 +28,7 @@ public:
         index++;
         updateTree(root->right,ans,index);
     }
+
     TreeNode* convertBST(TreeNode* root) {
         if(root==nullptr){
             return nullptr;
@@ -35,20 +36,20 @@ public:
         if(root->left == nullptr && root->right == nullptr){
             return root;
         }
-        vector<int>inorder;
-        storeInorder(root,inorder);
-        int n=inorder.size();
+        vector<int>ans;
+        inorderStore(root,ans);
+        int n=ans.size();
         for(int i=n-1;i>=0;i--){
-           int currVal=inorder[i];
-           int nextVal=0;
-           if(i+1<n){
-            nextVal=inorder[i+1];
-           }
-           int sum=currVal+nextVal;
-           inorder[i]=sum;
+            int currVal=ans[i];
+            int nextVal=0;
+            if(i+1 < n){
+                nextVal=ans[i+1];
+            }
+            int sum=currVal+nextVal;
+            ans[i]=sum;
         }
         int index=0;
-        updateTree(root,inorder,index);
+        updateTree(root,ans,index);
         return root;
     }
 };
