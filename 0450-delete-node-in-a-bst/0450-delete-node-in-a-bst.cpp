@@ -25,13 +25,11 @@ public:
             return nullptr;
         }
         if(root->val==key){
-            // 0-child
-            if(root->left == nullptr && root->right==nullptr){
+            if(root->left == nullptr && root->right == nullptr){
                 TreeNode* temp=root;
                 delete temp;
                 return nullptr;
             }
-            // 1-child-left
             if(root->left != nullptr && root->right == nullptr){
                 TreeNode* temp=root;
                 TreeNode* child=root->left;
@@ -39,7 +37,6 @@ public:
                 delete temp;
                 return child;
             }
-            // 1-child-right
             if(root->left == nullptr && root->right != nullptr){
                 TreeNode* temp=root;
                 TreeNode* child=root->right;
@@ -47,17 +44,17 @@ public:
                 delete temp;
                 return child;
             }
-            // 2-child
             if(root->left != nullptr && root->right != nullptr){
-                int replace=getMax(root->left);
-                root->val=replace;
-                root->left=deleteNode(root->left,replace);
+                int replaceValue=getMax(root->left);
+                root->val=replaceValue;
+                root->left=deleteNode(root->left,replaceValue);
                 return root;
             }
-        }else{
-            if(key>root->val){
+
+        } else {
+            if(key > root->val){
                 root->right=deleteNode(root->right,key);
-            }else{
+            } else {
                 root->left=deleteNode(root->left,key);
             }
         }
