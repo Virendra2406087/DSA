@@ -208,6 +208,7 @@ Problem
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Virendra2406087/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Virendra2406087/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0997-find-the-town-judge](https://github.com/Virendra2406087/DSA/tree/master/0997-find-the-town-judge) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -861,6 +862,7 @@ Problem
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Virendra2406087/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0993-cousins-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1202,6 +1204,7 @@ Problem
 | [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Virendra2406087/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Virendra2406087/DSA/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Virendra2406087/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1791-find-center-of-star-graph](https://github.com/Virendra2406087/DSA/tree/master/1791-find-center-of-star-graph) |
@@ -1221,6 +1224,7 @@ Problem
 | [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Virendra2406087/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Virendra2406087/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Virendra2406087/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
