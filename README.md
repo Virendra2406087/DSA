@@ -137,6 +137,7 @@ Problem
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Virendra2406087/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Virendra2406087/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2562-find-the-array-concatenation-value](https://github.com/Virendra2406087/DSA/tree/master/2562-find-the-array-concatenation-value) |
@@ -218,6 +219,7 @@ Problem
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Virendra2406087/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/Virendra2406087/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2670-find-the-distinct-difference-array](https://github.com/Virendra2406087/DSA/tree/master/2670-find-the-distinct-difference-array) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Virendra2406087/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -692,6 +694,7 @@ Problem
 | [1840-maximum-building-height](https://github.com/Virendra2406087/DSA/tree/master/1840-maximum-building-height) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Virendra2406087/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1117,6 +1120,7 @@ Problem
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
