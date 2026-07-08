@@ -11,13 +11,12 @@
  */
 class Solution {
 public:
-    void solve(TreeNode * root,int k,priority_queue<int>&pq){
+    void solve(TreeNode* root,int k,priority_queue<int>& pq){
         if(root==nullptr){
             return;
         }
-        
         pq.push(root->val);
-        if(pq.size()>k){
+        if(pq.size() > k){
             pq.pop();
         }
         solve(root->left,k,pq);
