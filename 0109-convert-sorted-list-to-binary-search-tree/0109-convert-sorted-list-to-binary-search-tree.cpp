@@ -22,34 +22,35 @@
 class Solution {
 public:
     int getLen(ListNode* head){
-        int count=0;
-        if(head==0){
+        if(head==nullptr){
             return 0;
         }
-        while(head != nullptr){
+        ListNode* temp=head;
+        int count=0;
+        while(temp != nullptr){
             count++;
-            head=head->next;
+            temp=temp->next;
         }
         return count;
     }
     TreeNode* solve(ListNode* &head,int n){
+        if(head == nullptr){
+            return nullptr;
+        }
         if(n<=0){
             return nullptr;
         }
         // LNR
-        TreeNode* leftSubTree=solve(head,n/2);
+        TreeNode* leftAns=solve(head,n/2);
         int element=head->val;
         TreeNode* root=new TreeNode(element);
-        root->left=leftSubTree;
+        root->left=leftAns;
         head=head->next;
-        TreeNode* rightSubTree=solve(head,n-n/2-1);
-        root->right=rightSubTree;
+        TreeNode* rightAns=solve(head,n-n/2-1);
+        root->right=rightAns;
         return root;
     }
     TreeNode* sortedListToBST(ListNode* head) {
-        if(head==nullptr){
-            return nullptr;
-        }
         int n=getLen(head);
         TreeNode* root=solve(head,n);
         return root;
