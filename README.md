@@ -495,6 +495,7 @@ Problem
 | [0583-delete-operation-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0834-sum-of-distances-in-tree](https://github.com/Virendra2406087/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
@@ -805,6 +806,7 @@ Problem
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Virendra2406087/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0834-sum-of-distances-in-tree](https://github.com/Virendra2406087/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -863,6 +865,7 @@ Problem
 | [0743-network-delay-time](https://github.com/Virendra2406087/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/Virendra2406087/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Virendra2406087/DSA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0886-possible-bipartition](https://github.com/Virendra2406087/DSA/tree/master/0886-possible-bipartition) |
@@ -1208,6 +1211,7 @@ Problem
 | [0743-network-delay-time](https://github.com/Virendra2406087/DSA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
+| [0834-sum-of-distances-in-tree](https://github.com/Virendra2406087/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0841-keys-and-rooms](https://github.com/Virendra2406087/DSA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Virendra2406087/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Virendra2406087/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
