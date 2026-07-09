@@ -156,6 +156,7 @@ Problem
 | [3290-maximum-multiplication-score](https://github.com/Virendra2406087/DSA/tree/master/3290-maximum-multiplication-score) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Virendra2406087/DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -229,6 +230,7 @@ Problem
 | [3046-split-the-array](https://github.com/Virendra2406087/DSA/tree/master/3046-split-the-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Virendra2406087/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3668-restore-finishing-order](https://github.com/Virendra2406087/DSA/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1035,6 +1037,7 @@ Problem
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Virendra2406087/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Virendra2406087/DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Virendra2406087/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -1221,6 +1224,7 @@ Problem
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Virendra2406087/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Virendra2406087/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/Virendra2406087/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
@@ -1240,6 +1244,7 @@ Problem
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Virendra2406087/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Biconnected Component
 |  |
 | ------- |
