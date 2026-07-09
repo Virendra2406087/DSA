@@ -217,6 +217,7 @@ Problem
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1189-maximum-number-of-balloons](https://github.com/Virendra2406087/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Virendra2406087/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Virendra2406087/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -759,6 +760,7 @@ Problem
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Virendra2406087/DSA/tree/master/1306-jump-game-iii) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Virendra2406087/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -825,6 +827,7 @@ Problem
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Virendra2406087/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Virendra2406087/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -886,6 +889,7 @@ Problem
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Virendra2406087/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
