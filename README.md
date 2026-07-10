@@ -218,6 +218,7 @@ Problem
 | [1189-maximum-number-of-balloons](https://github.com/Virendra2406087/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Virendra2406087/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Virendra2406087/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -761,6 +762,7 @@ Problem
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Virendra2406087/DSA/tree/master/1306-jump-game-iii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Virendra2406087/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
@@ -828,6 +830,7 @@ Problem
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Virendra2406087/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Virendra2406087/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -890,6 +893,7 @@ Problem
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Virendra2406087/DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -1142,6 +1146,7 @@ Problem
 | [0451-sort-characters-by-frequency](https://github.com/Virendra2406087/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [1189-maximum-number-of-balloons](https://github.com/Virendra2406087/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
