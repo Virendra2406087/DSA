@@ -13,23 +13,21 @@ class Solution {
 public:
     bool isCompleteTree(TreeNode* root) {
         queue<TreeNode*>q;
+        bool isFound=false;
         q.push(root);
-        bool nullFound=false;
         while(!q.empty()){
-            TreeNode* frontNode=q.front();
+            TreeNode* front=q.front();
             q.pop();
-            if(frontNode==nullptr){
-                nullFound=true;
-            }else{
-                if(nullFound==true){
+            if(front==nullptr){
+                isFound=true;
+            } else {
+                if(isFound==true){
                     return false;
-                }else{
-                    q.push(frontNode->left);
-                    q.push(frontNode->right);
                 }
+                q.push(front->left);
+                q.push(front->right);
             }
         }
         return true;
-
     }
 };
