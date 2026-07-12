@@ -124,6 +124,7 @@ Problem
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Virendra2406087/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Virendra2406087/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Virendra2406087/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Virendra2406087/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Virendra2406087/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -573,6 +574,7 @@ Problem
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Virendra2406087/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Virendra2406087/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Virendra2406087/DSA/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Virendra2406087/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -656,6 +658,7 @@ Problem
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1833-maximum-ice-cream-bars](https://github.com/Virendra2406087/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Virendra2406087/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Virendra2406087/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Virendra2406087/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
