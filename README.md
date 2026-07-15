@@ -733,6 +733,7 @@ Problem
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Virendra2406087/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Virendra2406087/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Virendra2406087/DSA/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Virendra2406087/DSA/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Virendra2406087/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -1353,6 +1354,7 @@ Problem
 | ------- |
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Virendra2406087/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Virendra2406087/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Doubly-Linked List
 |  |
 | ------- |
