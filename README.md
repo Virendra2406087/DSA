@@ -178,6 +178,7 @@ Problem
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3838-weighted-word-mapping](https://github.com/Virendra2406087/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Virendra2406087/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/Virendra2406087/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Virendra2406087/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
@@ -475,6 +476,7 @@ Problem
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Virendra2406087/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Virendra2406087/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -655,6 +657,7 @@ Problem
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Virendra2406087/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Virendra2406087/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
 |  |
 | ------- |
@@ -742,6 +745,7 @@ Problem
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Virendra2406087/DSA/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Virendra2406087/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Virendra2406087/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -1126,6 +1130,7 @@ Problem
 | [3612-process-string-with-special-operations-i](https://github.com/Virendra2406087/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Virendra2406087/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3838-weighted-word-mapping](https://github.com/Virendra2406087/DSA/tree/master/3838-weighted-word-mapping) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Virendra2406087/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1358,6 +1363,7 @@ Problem
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Virendra2406087/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Virendra2406087/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/Virendra2406087/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Doubly-Linked List
 |  |
 | ------- |
