@@ -128,6 +128,7 @@ Problem
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Virendra2406087/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Virendra2406087/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Virendra2406087/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Virendra2406087/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -734,6 +735,7 @@ Problem
 | [1344-angle-between-hands-of-a-clock](https://github.com/Virendra2406087/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [1840-maximum-building-height](https://github.com/Virendra2406087/DSA/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Virendra2406087/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1367,6 +1369,7 @@ Problem
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Virendra2406087/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Virendra2406087/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Virendra2406087/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
