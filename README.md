@@ -166,6 +166,7 @@ Problem
 | [3312-sorted-gcd-pair-queries](https://github.com/Virendra2406087/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Virendra2406087/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -318,6 +319,7 @@ Problem
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Virendra2406087/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3340-check-balanced-string](https://github.com/Virendra2406087/DSA/tree/master/3340-check-balanced-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Virendra2406087/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/Virendra2406087/DSA/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Virendra2406087/DSA/tree/master/3614-process-string-with-special-operations-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -1104,6 +1106,7 @@ Problem
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Virendra2406087/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Virendra2406087/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Virendra2406087/DSA/tree/master/3620-network-recovery-pathways) |
@@ -1242,6 +1245,7 @@ Problem
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
