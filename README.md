@@ -168,6 +168,7 @@ Problem
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Virendra2406087/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -749,6 +750,7 @@ Problem
 | [3312-sorted-gcd-pair-queries](https://github.com/Virendra2406087/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Virendra2406087/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Virendra2406087/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Virendra2406087/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Virendra2406087/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -1163,6 +1165,7 @@ Problem
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Virendra2406087/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Virendra2406087/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Virendra2406087/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Matrix
