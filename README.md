@@ -43,6 +43,7 @@ Problem
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Virendra2406087/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Virendra2406087/DSA/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/Virendra2406087/DSA/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Virendra2406087/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Virendra2406087/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Virendra2406087/DSA/tree/master/0169-majority-element) |
@@ -1155,6 +1156,7 @@ Problem
 | ------- |
 | [0029-divide-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Virendra2406087/DSA/tree/master/0067-add-binary) |
+| [0137-single-number-ii](https://github.com/Virendra2406087/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Virendra2406087/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Virendra2406087/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Virendra2406087/DSA/tree/master/0222-count-complete-tree-nodes) |
