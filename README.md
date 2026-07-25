@@ -306,6 +306,7 @@ Problem
 | [0796-rotate-string](https://github.com/Virendra2406087/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Virendra2406087/DSA/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/Virendra2406087/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0953-reverse-only-letters](https://github.com/Virendra2406087/DSA/tree/master/0953-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Virendra2406087/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Virendra2406087/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -533,6 +534,7 @@ Problem
 | [0834-sum-of-distances-in-tree](https://github.com/Virendra2406087/DSA/tree/master/0834-sum-of-distances-in-tree) |
 | [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
+| [0940-distinct-subsequences-ii](https://github.com/Virendra2406087/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1137-n-th-tribonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1137-n-th-tribonacci-number) |
