@@ -78,6 +78,7 @@ Problem
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Virendra2406087/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Virendra2406087/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
 | [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
@@ -643,6 +644,7 @@ Problem
 | [0506-relative-ranks](https://github.com/Virendra2406087/DSA/tree/master/0506-relative-ranks) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/Virendra2406087/DSA/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Virendra2406087/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
@@ -740,6 +742,7 @@ Problem
 | [0445-add-two-numbers-ii](https://github.com/Virendra2406087/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Virendra2406087/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/Virendra2406087/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
