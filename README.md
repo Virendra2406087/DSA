@@ -32,6 +32,7 @@ Problem
 | [0056-merge-intervals](https://github.com/Virendra2406087/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Virendra2406087/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Virendra2406087/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Virendra2406087/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Virendra2406087/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Virendra2406087/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
@@ -452,6 +453,7 @@ Problem
 | [0031-next-permutation](https://github.com/Virendra2406087/DSA/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Virendra2406087/DSA/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Virendra2406087/DSA/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Virendra2406087/DSA/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Virendra2406087/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
@@ -630,6 +632,7 @@ Problem
 | [0047-permutations-ii](https://github.com/Virendra2406087/DSA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/Virendra2406087/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Virendra2406087/DSA/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/Virendra2406087/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Virendra2406087/DSA/tree/master/0148-sort-list) |
