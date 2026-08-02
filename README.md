@@ -95,6 +95,7 @@ Problem
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Virendra2406087/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0877-stone-game](https://github.com/Virendra2406087/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Virendra2406087/DSA/tree/master/0896-monotonic-array) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
@@ -551,6 +552,7 @@ Problem
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Virendra2406087/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Virendra2406087/DSA/tree/master/0834-sum-of-distances-in-tree) |
+| [0877-stone-game](https://github.com/Virendra2406087/DSA/tree/master/0877-stone-game) |
 | [0894-all-possible-full-binary-trees](https://github.com/Virendra2406087/DSA/tree/master/0894-all-possible-full-binary-trees) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0940-distinct-subsequences-ii](https://github.com/Virendra2406087/DSA/tree/master/0940-distinct-subsequences-ii) |
@@ -767,6 +769,7 @@ Problem
 | [0504-base-7](https://github.com/Virendra2406087/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Virendra2406087/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Virendra2406087/DSA/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/Virendra2406087/DSA/tree/master/0989-add-to-array-form-of-integer) |
 | [1006-clumsy-factorial](https://github.com/Virendra2406087/DSA/tree/master/1006-clumsy-factorial) |
 | [1013-fibonacci-number](https://github.com/Virendra2406087/DSA/tree/master/1013-fibonacci-number) |
@@ -1164,6 +1167,7 @@ Problem
 | [0292-nim-game](https://github.com/Virendra2406087/DSA/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Virendra2406087/DSA/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Virendra2406087/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Virendra2406087/DSA/tree/master/0877-stone-game) |
 ## Simulation
 |  |
 | ------- |
