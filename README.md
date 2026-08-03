@@ -92,6 +92,7 @@ Problem
 | [0682-baseball-game](https://github.com/Virendra2406087/DSA/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/Virendra2406087/DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Virendra2406087/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Virendra2406087/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -598,6 +599,7 @@ Problem
 | [0567-permutation-in-string](https://github.com/Virendra2406087/DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0658-find-k-closest-elements](https://github.com/Virendra2406087/DSA/tree/master/0658-find-k-closest-elements) |
+| [0713-subarray-product-less-than-k](https://github.com/Virendra2406087/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
@@ -1133,6 +1135,7 @@ Problem
 | [0700-search-in-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Virendra2406087/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0704-binary-search](https://github.com/Virendra2406087/DSA/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/Virendra2406087/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Virendra2406087/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Virendra2406087/DSA/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -1400,6 +1403,7 @@ Problem
 | [0209-minimum-size-subarray-sum](https://github.com/Virendra2406087/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Virendra2406087/DSA/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
+| [0713-subarray-product-less-than-k](https://github.com/Virendra2406087/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1732-find-the-highest-altitude](https://github.com/Virendra2406087/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Virendra2406087/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Virendra2406087/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
