@@ -14,7 +14,7 @@ public:
         while(temp != nullptr){
             if(visited[temp]==true){
                 return temp;
-            }else{
+            } else {
                 visited[temp]=true;
                 temp=temp->next;
             }
