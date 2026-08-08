@@ -1,8 +1,8 @@
 class Solution {
 public:
-   struct lambda{
-        bool operator()(pair<int,int>&p1,pair<int,int> &p2){
-            return p1.second < p2.second;
+    struct lambda{
+        bool operator()(pair<int,int>& p1,pair<int,int>& p2){
+            return p1.second<p2.second;
         }
     };
     vector<int> topKFrequent(vector<int>& nums, int k) {
