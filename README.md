@@ -161,6 +161,7 @@ Problem
 | [2395-find-subarrays-with-equal-sum](https://github.com/Virendra2406087/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Virendra2406087/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Virendra2406087/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2465-number-of-distinct-averages](https://github.com/Virendra2406087/DSA/tree/master/2465-number-of-distinct-averages) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -608,6 +609,7 @@ Problem
 | [0641-design-circular-deque](https://github.com/Virendra2406087/DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/Virendra2406087/DSA/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Virendra2406087/DSA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Virendra2406087/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
 | ------- |
@@ -624,6 +626,7 @@ Problem
 | [0713-subarray-product-less-than-k](https://github.com/Virendra2406087/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Virendra2406087/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Virendra2406087/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Heap (Priority Queue)
 |  |
@@ -662,6 +665,7 @@ Problem
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/Virendra2406087/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Sorting
 |  |
 | ------- |
