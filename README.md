@@ -158,6 +158,7 @@ Problem
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Virendra2406087/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Virendra2406087/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Virendra2406087/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
@@ -348,6 +349,7 @@ Problem
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Virendra2406087/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Virendra2406087/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Virendra2406087/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Virendra2406087/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Virendra2406087/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1345,6 +1347,7 @@ Problem
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1354,6 +1357,7 @@ Problem
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Virendra2406087/DSA/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
