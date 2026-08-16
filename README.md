@@ -149,6 +149,7 @@ Problem
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Virendra2406087/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Virendra2406087/DSA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2057-smallest-index-with-equal-value](https://github.com/Virendra2406087/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Virendra2406087/DSA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -768,6 +769,7 @@ Problem
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Virendra2406087/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Virendra2406087/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Virendra2406087/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/Virendra2406087/DSA/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -831,6 +833,7 @@ Problem
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [1840-maximum-building-height](https://github.com/Virendra2406087/DSA/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Virendra2406087/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2427-number-of-common-factors](https://github.com/Virendra2406087/DSA/tree/master/2427-number-of-common-factors) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1226,6 +1229,7 @@ Problem
 | [0486-predict-the-winner](https://github.com/Virendra2406087/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Virendra2406087/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Virendra2406087/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -1317,6 +1321,7 @@ Problem
 | [1189-maximum-number-of-balloons](https://github.com/Virendra2406087/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -1543,8 +1548,14 @@ Problem
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Virendra2406087/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Virendra2406087/DSA/tree/master/1140-stone-game-ii) |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
