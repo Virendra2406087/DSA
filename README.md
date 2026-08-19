@@ -126,6 +126,7 @@ Problem
 | [1331-rank-transform-of-an-array](https://github.com/Virendra2406087/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Virendra2406087/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1386-cinema-seat-allocation](https://github.com/Virendra2406087/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Virendra2406087/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Virendra2406087/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
@@ -267,6 +268,7 @@ Problem
 | [1189-maximum-number-of-balloons](https://github.com/Virendra2406087/DSA/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Virendra2406087/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Virendra2406087/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -775,6 +777,7 @@ Problem
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Virendra2406087/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1386-cinema-seat-allocation](https://github.com/Virendra2406087/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Virendra2406087/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Virendra2406087/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Virendra2406087/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -1284,6 +1287,7 @@ Problem
 | [0371-sum-of-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Virendra2406087/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [1386-cinema-seat-allocation](https://github.com/Virendra2406087/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Virendra2406087/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Virendra2406087/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Virendra2406087/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
