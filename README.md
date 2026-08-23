@@ -362,6 +362,7 @@ Problem
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Virendra2406087/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1528-shuffle-string](https://github.com/Virendra2406087/DSA/tree/master/1528-shuffle-string) |
+| [1927-sum-game](https://github.com/Virendra2406087/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Virendra2406087/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Virendra2406087/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -783,6 +784,7 @@ Problem
 | [1386-cinema-seat-allocation](https://github.com/Virendra2406087/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1833-maximum-ice-cream-bars](https://github.com/Virendra2406087/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Virendra2406087/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1927-sum-game](https://github.com/Virendra2406087/DSA/tree/master/1927-sum-game) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Virendra2406087/DSA/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
 | [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
@@ -849,6 +851,7 @@ Problem
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [1563-stone-game-v](https://github.com/Virendra2406087/DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/Virendra2406087/DSA/tree/master/1840-maximum-building-height) |
+| [1927-sum-game](https://github.com/Virendra2406087/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Virendra2406087/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Virendra2406087/DSA/tree/master/2139-minimum-moves-to-reach-target-score) |
@@ -1251,6 +1254,7 @@ Problem
 | [0877-stone-game](https://github.com/Virendra2406087/DSA/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Virendra2406087/DSA/tree/master/1140-stone-game-ii) |
 | [1563-stone-game-v](https://github.com/Virendra2406087/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Virendra2406087/DSA/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Virendra2406087/DSA/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
