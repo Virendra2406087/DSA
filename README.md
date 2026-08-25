@@ -127,6 +127,7 @@ Problem
 | [1331-rank-transform-of-an-array](https://github.com/Virendra2406087/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Virendra2406087/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Virendra2406087/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Virendra2406087/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -539,6 +540,7 @@ Problem
 | [0908-middle-of-the-linked-list](https://github.com/Virendra2406087/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [0953-reverse-only-letters](https://github.com/Virendra2406087/DSA/tree/master/0953-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Virendra2406087/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -744,6 +746,7 @@ Problem
 | [1288-remove-covered-intervals](https://github.com/Virendra2406087/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Virendra2406087/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/Virendra2406087/DSA/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Virendra2406087/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
@@ -1227,6 +1230,7 @@ Problem
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Virendra2406087/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Virendra2406087/DSA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
