@@ -136,6 +136,7 @@ Problem
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Virendra2406087/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/1471-the-k-strongest-values-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Virendra2406087/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Virendra2406087/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1528-shuffle-string](https://github.com/Virendra2406087/DSA/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/Virendra2406087/DSA/tree/master/1563-stone-game-v) |
@@ -1512,6 +1513,7 @@ Problem
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Virendra2406087/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Virendra2406087/DSA/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Virendra2406087/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Virendra2406087/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Virendra2406087/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Virendra2406087/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
