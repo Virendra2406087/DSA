@@ -202,6 +202,7 @@ Problem
 | [3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays](https://github.com/Virendra2406087/DSA/tree/master/3430-maximum-and-minimum-sums-of-at-most-size-k-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Virendra2406087/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/Virendra2406087/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Virendra2406087/DSA/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Virendra2406087/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -1256,6 +1257,7 @@ Problem
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Virendra2406087/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Virendra2406087/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3477-fruits-into-baskets-ii](https://github.com/Virendra2406087/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Virendra2406087/DSA/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1422,6 +1424,7 @@ Problem
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3072-distribute-elements-into-two-arrays-ii](https://github.com/Virendra2406087/DSA/tree/master/3072-distribute-elements-into-two-arrays-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Virendra2406087/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Virendra2406087/DSA/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -1433,6 +1436,7 @@ Problem
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Virendra2406087/DSA/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3477-fruits-into-baskets-ii](https://github.com/Virendra2406087/DSA/tree/master/3477-fruits-into-baskets-ii) |
+| [3479-fruits-into-baskets-iii](https://github.com/Virendra2406087/DSA/tree/master/3479-fruits-into-baskets-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Virendra2406087/DSA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Stack
 |  |
