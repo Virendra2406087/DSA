@@ -221,6 +221,7 @@ Problem
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Virendra2406087/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Virendra2406087/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Virendra2406087/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Virendra2406087/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -312,6 +313,7 @@ Problem
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Virendra2406087/DSA/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Virendra2406087/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Virendra2406087/DSA/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Virendra2406087/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3731-find-missing-elements](https://github.com/Virendra2406087/DSA/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -1198,6 +1200,7 @@ Problem
 | [0912-sort-an-array](https://github.com/Virendra2406087/DSA/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Virendra2406087/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Virendra2406087/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search Tree
@@ -1434,6 +1437,7 @@ Problem
 | [3479-fruits-into-baskets-iii](https://github.com/Virendra2406087/DSA/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Virendra2406087/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Ordered Set
@@ -1550,6 +1554,7 @@ Problem
 | [2574-left-and-right-sum-differences](https://github.com/Virendra2406087/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Virendra2406087/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Virendra2406087/DSA/tree/master/3312-sorted-gcd-pair-queries) |
+| [3721-longest-balanced-subarray-ii](https://github.com/Virendra2406087/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Virendra2406087/DSA/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Virendra2406087/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
