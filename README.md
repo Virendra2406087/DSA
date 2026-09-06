@@ -337,6 +337,7 @@ Problem
 | [0071-simplify-path](https://github.com/Virendra2406087/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/Virendra2406087/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Virendra2406087/DSA/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Virendra2406087/DSA/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Virendra2406087/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Virendra2406087/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/Virendra2406087/DSA/tree/master/0205-isomorphic-strings) |
@@ -590,6 +591,7 @@ Problem
 | [0085-maximal-rectangle](https://github.com/Virendra2406087/DSA/tree/master/0085-maximal-rectangle) |
 | [0095-unique-binary-search-trees-ii](https://github.com/Virendra2406087/DSA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Virendra2406087/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Virendra2406087/DSA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Virendra2406087/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Virendra2406087/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
