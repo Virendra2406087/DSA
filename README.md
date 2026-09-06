@@ -1656,4 +1656,8 @@ Problem
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
