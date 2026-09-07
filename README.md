@@ -214,6 +214,7 @@ Problem
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Virendra2406087/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Virendra2406087/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3620-network-recovery-pathways](https://github.com/Virendra2406087/DSA/tree/master/3620-network-recovery-pathways) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Virendra2406087/DSA/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Virendra2406087/DSA/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -975,6 +976,7 @@ Problem
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Virendra2406087/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Virendra2406087/DSA/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Virendra2406087/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Virendra2406087/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Tree
 |  |
 | ------- |
@@ -1115,6 +1117,7 @@ Problem
 | [3310-remove-methods-from-project](https://github.com/Virendra2406087/DSA/tree/master/3310-remove-methods-from-project) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Virendra2406087/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Virendra2406087/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1382,6 +1385,7 @@ Problem
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Virendra2406087/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Virendra2406087/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Virendra2406087/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1547,6 +1551,7 @@ Problem
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Virendra2406087/DSA/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Virendra2406087/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Biconnected Component
 |  |
 | ------- |
