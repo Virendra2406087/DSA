@@ -28,6 +28,20 @@ public:
             }
         }
     }
+    
+    void dfs(int i,int j,int row,int col,vector<vector<char>>& grid, map<pair<int,int>,bool>& visited) {
+        visited[{i,j}]=true;
+        int dx[]={-1,0,1,0};
+        int dy[]={0,1,0,-1};
+        for(int k=0;k<4;k++){
+            int newX=i+dx[k];
+            int newY=j+dy[k];
+            if(isSafe(newX,newY,row,col,grid,visited)){
+                dfs(newX,newY,row,col,grid,visited);
+            }
+        }
+    }
+
     int numIslands(vector<vector<char>>& grid) {
         int row = grid.size();
         int col = grid[0].size();
@@ -36,7 +50,7 @@ public:
         for(int i=0;i<row;i++){
             for(int j=0;j<col;j++){
                 if(!visited[{i,j}] && grid[i][j]=='1'){
-                    solveUsingBFS(i,j,row,col,grid,visited);
+                    dfs(i,j,row,col,grid,visited);
                     count++;
                 }
             }
