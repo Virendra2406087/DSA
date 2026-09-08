@@ -1,52 +1,41 @@
 class Solution {
 public:
-    void countBridge(int src,int parent,vector<int>& tin,vector<int>& low,vector<bool>& visited,int& timer,vector<vector<int>>& ans,vector<vector<int>>& adj) {
-
-        visited[src] = true;
-        tin[src] = low[src] = timer++;
-
-        for (auto nbr : adj[src]) {
-
-            if (nbr == parent){
+    void countBridge(int src,int parent,unordered_map<int,list<int>>& adjList, unordered_map<int,bool>& visited,vector<int>& tin, vector<int>& low,int timer,vector<vector<int>>& ans) {
+        visited[src]=true;
+        tin[src]=low[src]=timer++;
+        for(auto nbr : adjList[src]) {
+            if(nbr == parent) {
                 continue;
-            }
-
-            if (!visited[nbr]) {
-                countBridge(nbr, src, tin, low,visited, timer, ans, adj);
-                low[src] = min(low[src], low[nbr]);
-                if (low[nbr] > tin[src]) {
-                    ans.push_back({src, nbr});
+            } else if(! visited[nbr]) {
+                countBridge(nbr,src,adjList,visited,tin,low,timer,ans);
+                low[src]=min(low[nbr],low[src]);
+                if(low[nbr] > tin[src]) {
+                    vector<int>temp;
+                    temp.push_back(src);
+                    temp.push_back(nbr);
+                    ans.push_back(temp);
                 }
             } else {
-                low[src] = min(low[src], tin[nbr]);
+                low[src]=min(low[src],low[nbr]);
             }
         }
     }
-
-    vector<vector<int>> criticalConnections(int n,vector<vector<int>>& connections) {
-        vector<vector<int>> adj(n);
-
-        for (auto &edge : connections) {
-            int u = edge[0];
-            int v = edge[1];
-
-            adj[u].push_back(v);
-            adj[v].push_back(u);
+    vector<vector<int>> criticalConnections(int n, vector<vector<int>>& connections) {
+        unordered_map<int,list<int>>adjList;
+        for(auto i:connections) {
+            int u = i[0];
+            int v = i[1];
+            adjList[u].push_back(v);
+            adjList[v].push_back(u);
         }
-
-        vector<int> tin(n, -1);
-        vector<int> low(n, -1);
-        vector<bool> visited(n, false);
-
+        int src=0;
+        int parent=-1;
+        unordered_map<int,bool> visited;
+        vector<int> tin(n);
+        vector<int> low(n);
+        int timer=0;
         vector<vector<int>> ans;
-        int timer = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (!visited[i]) {
-                countBridge(i, -1, tin, low,visited, timer, ans, adj);
-            }
-        }
-
+        countBridge(src, parent, adjList, visited, tin, low, timer,ans);
         return ans;
     }
 };
