@@ -1,35 +1,33 @@
 class Solution {
 public:
-    bool isSafe(int i,int j,int oldColor,vector<vector<int>>& image,vector<vector<int>>& ans,map<pair<int,int>,bool>& visited){
-        int n=image.size();
-        int m=image[0].size();
-        if(i>=0 && i<n && j>=0 && j<m && ans[i][j]==oldColor && ! visited[{i,j}]){
-           return true;
+    bool isSafe(int newX, int newY, int oldcolor, int row, int col,map<pair<int,int>,bool> & visited, vector<vector<int>>& ans,vector<vector<int>>& image) {
+        if(newX >=0 && newY >= 0 && newX < row && newY < col && !visited[{newX,newY}] && image[newX][newY]==oldcolor) {
+            return true;
+        } else {
+            return false;
         }
-        return false;
     }
-    void dfs(int oldColor,int newColor,map<pair<int,int>,bool>& visited,vector<vector<int>>& ans,vector<vector<int>>& image,int sr,int sc){
-        visited[{sr,sc}]=1;
+    void dfs(int row,int col,int oldcolor,int newColor,vector<vector<int>>& image, int sr, int sc,map<pair<int,int>,bool> & visited, vector<vector<int>>& ans) {
+        visited[{sr,sc}]=true;
         ans[sr][sc]=newColor;
         int dx[]={-1,0,1,0};
         int dy[]={0,1,0,-1};
-        for(int k=0;k<4;k++){
-            int newX=sr+dx[k];
-            int newY=sc+dy[k];
-            if(isSafe(newX,newY,oldColor,image,ans,visited)){
-                dfs(oldColor,newColor,visited,ans,image,newX,newY);
+        for(int i=0;i<4;i++){
+            int newX=sr+dx[i];
+            int newY=sc+dy[i];
+            if(isSafe(newX, newY, oldcolor,row,col,visited,ans,image)){
+                dfs(row,col,oldcolor,newColor,image,newX,newY,visited,ans);
             }
         }
     }
     vector<vector<int>> floodFill(vector<vector<int>>& image, int sr, int sc, int color) {
-        vector<vector<int>>ans=image;
-        int oldColor=image[sr][sc];
+        int row=image.size();
+        int col=image[0].size();
+        int oldcolor=image[sr][sc];
         int newColor=color;
-        if(oldColor==color){
-            return image;
-        }
-        map<pair<int,int>,bool>visited;
-        dfs(oldColor,newColor,visited,ans,image,sr,sc);
+        map<pair<int,int>,bool>  visited;
+        vector<vector<int>> ans=image;
+        dfs(row,col,oldcolor,newColor,image,sr,sc,visited,ans);
         return ans;
     }
 };
