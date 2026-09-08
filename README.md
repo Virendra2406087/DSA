@@ -1680,4 +1680,8 @@ Problem
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/Virendra2406087/DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Virendra2406087/DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
