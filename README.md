@@ -1679,6 +1679,7 @@ Problem
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Virendra2406087/DSA/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/Virendra2406087/DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Bridge (Graph)
