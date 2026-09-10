@@ -1679,6 +1679,7 @@ Problem
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
+| [0797-all-paths-from-source-to-target](https://github.com/Virendra2406087/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
