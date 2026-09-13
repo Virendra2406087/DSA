@@ -102,6 +102,7 @@ Problem
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/Virendra2406087/DSA/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Virendra2406087/DSA/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Virendra2406087/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Virendra2406087/DSA/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Virendra2406087/DSA/tree/master/0896-monotonic-array) |
@@ -1389,6 +1390,7 @@ Problem
 | [0695-max-area-of-island](https://github.com/Virendra2406087/DSA/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Virendra2406087/DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Virendra2406087/DSA/tree/master/0778-swim-in-rising-water) |
+| [0835-image-overlap](https://github.com/Virendra2406087/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Virendra2406087/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Virendra2406087/DSA/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Virendra2406087/DSA/tree/master/1301-number-of-paths-with-max-score) |
