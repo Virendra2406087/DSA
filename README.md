@@ -867,6 +867,7 @@ Problem
 | [0096-unique-binary-search-trees](https://github.com/Virendra2406087/DSA/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Virendra2406087/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Virendra2406087/DSA/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Virendra2406087/DSA/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Virendra2406087/DSA/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/Virendra2406087/DSA/tree/master/0231-power-of-two) |
@@ -1507,6 +1508,7 @@ Problem
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Virendra2406087/DSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Virendra2406087/DSA/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 ## Design
