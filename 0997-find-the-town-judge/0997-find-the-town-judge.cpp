@@ -5,6 +5,7 @@ public:
         unordered_map<int,int>outdegree;
         for(int i=1;i<=n;i++){
             indegree[i]=0;
+            outdegree[i]=0;
         }
         for(auto i:trust){
             int u=i[0];
@@ -17,7 +18,6 @@ public:
                 return i;
             }
         }
-            return -1;
-        
+        return -1;
     }
 };
