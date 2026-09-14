@@ -1,10 +1,10 @@
 class Solution {
 public:
-    void dfs(vector<vector<int>>& rooms,int src,vector<bool> &visited){
+    void dfs(vector<vector<int>>& rooms, int src,vector<bool>& visited){
         visited[src]=true;
-        for(int &node :rooms[src]){
+        for(auto node:rooms[src]){
             if(!visited[node]){
-               dfs(rooms,node,visited);
+                dfs(rooms,node,visited);
             }
         }
     }
