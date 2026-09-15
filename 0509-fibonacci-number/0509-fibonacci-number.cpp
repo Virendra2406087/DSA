@@ -31,6 +31,18 @@ public:
         }
         return dp[n];
     }
+    int solveUsingTabSO(int n){
+        int prev2=0;
+        int prev1=1;
+        int curr=-1;
+        for(int i=2;i<=n;i++){
+            curr=prev1+prev2;
+            prev2=prev1;
+            prev1=curr;
+        }
+        return curr;
+    }
+
     int fib(int n) {
         vector<int>dp(n+1,-1);
         return solveUsingTab(n);
