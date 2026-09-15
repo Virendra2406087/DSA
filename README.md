@@ -982,6 +982,7 @@ Problem
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1306-jump-game-iii](https://github.com/Virendra2406087/DSA/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Virendra2406087/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/Virendra2406087/DSA/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -1122,6 +1123,7 @@ Problem
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1192-critical-connections-in-a-network](https://github.com/Virendra2406087/DSA/tree/master/1192-critical-connections-in-a-network) |
 | [1306-jump-game-iii](https://github.com/Virendra2406087/DSA/tree/master/1306-jump-game-iii) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Virendra2406087/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/1382-balance-a-binary-search-tree) |
@@ -1542,6 +1544,7 @@ Problem
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Virendra2406087/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/Virendra2406087/DSA/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/Virendra2406087/DSA/tree/master/1192-critical-connections-in-a-network) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Virendra2406087/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1791-find-center-of-star-graph](https://github.com/Virendra2406087/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2359-find-closest-node-to-given-two-nodes](https://github.com/Virendra2406087/DSA/tree/master/2359-find-closest-node-to-given-two-nodes) |
@@ -1568,6 +1571,7 @@ Problem
 | [0785-is-graph-bipartite](https://github.com/Virendra2406087/DSA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/Virendra2406087/DSA/tree/master/0886-possible-bipartition) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Virendra2406087/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/Virendra2406087/DSA/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Virendra2406087/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Virendra2406087/DSA/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
