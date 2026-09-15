@@ -1715,4 +1715,12 @@ Problem
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Virendra2406087/DSA/tree/master/1192-critical-connections-in-a-network) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
