@@ -80,6 +80,7 @@ Problem
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Virendra2406087/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/Virendra2406087/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Virendra2406087/DSA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Virendra2406087/DSA/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/Virendra2406087/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Virendra2406087/DSA/tree/master/0503-next-greater-element-ii) |
@@ -272,6 +273,7 @@ Problem
 | [0387-first-unique-character-in-a-string](https://github.com/Virendra2406087/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Virendra2406087/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0433-minimum-genetic-mutation](https://github.com/Virendra2406087/DSA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Virendra2406087/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Virendra2406087/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -423,6 +425,7 @@ Problem
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
 ## Stack
@@ -1379,6 +1382,7 @@ Problem
 | [0371-sum-of-two-integers](https://github.com/Virendra2406087/DSA/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Virendra2406087/DSA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Virendra2406087/DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Virendra2406087/DSA/tree/master/1386-cinema-seat-allocation) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/Virendra2406087/DSA/tree/master/2869-minimum-operations-to-collect-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Virendra2406087/DSA/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
