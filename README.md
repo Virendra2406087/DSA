@@ -356,6 +356,7 @@ Problem
 | [0132-palindrome-partitioning-ii](https://github.com/Virendra2406087/DSA/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/Virendra2406087/DSA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Virendra2406087/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0224-basic-calculator](https://github.com/Virendra2406087/DSA/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Virendra2406087/DSA/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Virendra2406087/DSA/tree/master/0242-valid-anagram) |
@@ -425,6 +426,7 @@ Problem
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Virendra2406087/DSA/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Virendra2406087/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
@@ -1094,6 +1096,7 @@ Problem
 | [0200-number-of-islands](https://github.com/Virendra2406087/DSA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Virendra2406087/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Virendra2406087/DSA/tree/master/0210-course-schedule-ii) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Virendra2406087/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Virendra2406087/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Virendra2406087/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1531,6 +1534,7 @@ Problem
 | ------- |
 | [0146-lru-cache](https://github.com/Virendra2406087/DSA/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/Virendra2406087/DSA/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Virendra2406087/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Virendra2406087/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Virendra2406087/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Virendra2406087/DSA/tree/master/0303-range-sum-query-immutable) |
