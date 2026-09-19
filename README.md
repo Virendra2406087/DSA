@@ -918,6 +918,7 @@ Problem
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Virendra2406087/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Virendra2406087/DSA/tree/master/1390-four-divisors) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Virendra2406087/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/Virendra2406087/DSA/tree/master/1512-number-of-good-pairs) |
 | [1563-stone-game-v](https://github.com/Virendra2406087/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Virendra2406087/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1540,6 +1541,7 @@ Problem
 | [0223-rectangle-area](https://github.com/Virendra2406087/DSA/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Virendra2406087/DSA/tree/master/0836-rectangle-overlap) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Virendra2406087/DSA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/Virendra2406087/DSA/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Design
 |  |
 | ------- |
