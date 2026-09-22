@@ -221,6 +221,7 @@ Problem
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Virendra2406087/DSA/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Virendra2406087/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Virendra2406087/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Virendra2406087/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Virendra2406087/DSA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Virendra2406087/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -955,6 +956,7 @@ Problem
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Virendra2406087/DSA/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Virendra2406087/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Virendra2406087/DSA/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Virendra2406087/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Virendra2406087/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Virendra2406087/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Virendra2406087/DSA/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -1526,6 +1528,7 @@ Problem
 | [3477-fruits-into-baskets-ii](https://github.com/Virendra2406087/DSA/tree/master/3477-fruits-into-baskets-ii) |
 | [3479-fruits-into-baskets-iii](https://github.com/Virendra2406087/DSA/tree/master/3479-fruits-into-baskets-iii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Virendra2406087/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3525-find-x-value-of-array-ii](https://github.com/Virendra2406087/DSA/tree/master/3525-find-x-value-of-array-ii) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Virendra2406087/DSA/tree/master/3691-maximum-total-subarray-value-ii) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Virendra2406087/DSA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Virendra2406087/DSA/tree/master/3737-count-subarrays-with-majority-element-i) |
