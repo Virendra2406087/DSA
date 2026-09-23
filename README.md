@@ -90,6 +90,7 @@ Problem
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Virendra2406087/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Virendra2406087/DSA/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/Virendra2406087/DSA/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Virendra2406087/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -289,6 +290,7 @@ Problem
 | [0496-next-greater-element-i](https://github.com/Virendra2406087/DSA/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Virendra2406087/DSA/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Virendra2406087/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Virendra2406087/DSA/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0648-replace-words](https://github.com/Virendra2406087/DSA/tree/master/0648-replace-words) |
@@ -1653,6 +1655,7 @@ Problem
 | [0238-product-of-array-except-self](https://github.com/Virendra2406087/DSA/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Virendra2406087/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/Virendra2406087/DSA/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Virendra2406087/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Virendra2406087/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [1140-stone-game-ii](https://github.com/Virendra2406087/DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Virendra2406087/DSA/tree/master/1480-running-sum-of-1d-array) |
