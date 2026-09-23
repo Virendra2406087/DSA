@@ -151,6 +151,7 @@ Problem
 | [1528-shuffle-string](https://github.com/Virendra2406087/DSA/tree/master/1528-shuffle-string) |
 | [1563-stone-game-v](https://github.com/Virendra2406087/DSA/tree/master/1563-stone-game-v) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virendra2406087/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Virendra2406087/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
 | [1732-find-the-highest-altitude](https://github.com/Virendra2406087/DSA/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Virendra2406087/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -308,6 +309,7 @@ Problem
 | [1512-number-of-good-pairs](https://github.com/Virendra2406087/DSA/tree/master/1512-number-of-good-pairs) |
 | [1519-number-of-nodes-in-the-sub-tree-with-the-same-label](https://github.com/Virendra2406087/DSA/tree/master/1519-number-of-nodes-in-the-sub-tree-with-the-same-label) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virendra2406087/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virendra2406087/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Virendra2406087/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Virendra2406087/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Virendra2406087/DSA/tree/master/2094-finding-3-digit-even-numbers) |
@@ -728,6 +730,7 @@ Problem
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Virendra2406087/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Virendra2406087/DSA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virendra2406087/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Virendra2406087/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2090-k-radius-subarray-averages](https://github.com/Virendra2406087/DSA/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/Virendra2406087/DSA/tree/master/2444-count-subarrays-with-fixed-bounds) |
@@ -1341,6 +1344,7 @@ Problem
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Virendra2406087/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows](https://github.com/Virendra2406087/DSA/tree/master/1439-find-the-kth-smallest-sum-of-a-matrix-with-sorted-rows) |
 | [1631-path-with-minimum-effort](https://github.com/Virendra2406087/DSA/tree/master/1631-path-with-minimum-effort) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virendra2406087/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2040-kth-smallest-product-of-two-sorted-arrays](https://github.com/Virendra2406087/DSA/tree/master/2040-kth-smallest-product-of-two-sorted-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Virendra2406087/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Virendra2406087/DSA/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1653,6 +1657,7 @@ Problem
 | [1140-stone-game-ii](https://github.com/Virendra2406087/DSA/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Virendra2406087/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Virendra2406087/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Virendra2406087/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Virendra2406087/DSA/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/Virendra2406087/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Virendra2406087/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
