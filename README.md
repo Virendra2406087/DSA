@@ -1787,6 +1787,7 @@ Problem
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Virendra2406087/DSA/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/Virendra2406087/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -1799,4 +1800,8 @@ Problem
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Virendra2406087/DSA/tree/master/0139-word-break) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Virendra2406087/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
