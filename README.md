@@ -416,6 +416,7 @@ Problem
 | [1096-brace-expansion-ii](https://github.com/Virendra2406087/DSA/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/Virendra2406087/DSA/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/Virendra2406087/DSA/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1268-search-suggestions-system](https://github.com/Virendra2406087/DSA/tree/master/1268-search-suggestions-system) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Virendra2406087/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -501,6 +502,7 @@ Problem
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Virendra2406087/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Virendra2406087/DSA/tree/master/1096-brace-expansion-ii) |
 | [1130-minimum-cost-tree-from-leaf-values](https://github.com/Virendra2406087/DSA/tree/master/1130-minimum-cost-tree-from-leaf-values) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Virendra2406087/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
@@ -1820,4 +1822,8 @@ Problem
 | [0595-big-countries](https://github.com/Virendra2406087/DSA/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Virendra2406087/DSA/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Virendra2406087/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
