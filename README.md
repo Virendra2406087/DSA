@@ -423,6 +423,7 @@ Problem
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Virendra2406087/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Virendra2406087/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1528-shuffle-string](https://github.com/Virendra2406087/DSA/tree/master/1528-shuffle-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Virendra2406087/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Virendra2406087/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Virendra2406087/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -505,6 +506,7 @@ Problem
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Virendra2406087/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Virendra2406087/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -1830,4 +1832,5 @@ Problem
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
