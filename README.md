@@ -183,6 +183,7 @@ Problem
 | [2196-create-binary-tree-from-descriptions](https://github.com/Virendra2406087/DSA/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Virendra2406087/DSA/tree/master/2248-intersection-of-multiple-arrays) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Virendra2406087/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2395-find-subarrays-with-equal-sum](https://github.com/Virendra2406087/DSA/tree/master/2395-find-subarrays-with-equal-sum) |
 | [2404-most-frequent-even-element](https://github.com/Virendra2406087/DSA/tree/master/2404-most-frequent-even-element) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Virendra2406087/DSA/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -700,6 +701,7 @@ Problem
 | [1563-stone-game-v](https://github.com/Virendra2406087/DSA/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Virendra2406087/DSA/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1691-maximum-height-by-stacking-cuboids](https://github.com/Virendra2406087/DSA/tree/master/1691-maximum-height-by-stacking-cuboids) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Virendra2406087/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/Virendra2406087/DSA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Virendra2406087/DSA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3290-maximum-multiplication-score](https://github.com/Virendra2406087/DSA/tree/master/3290-maximum-multiplication-score) |
@@ -1478,6 +1480,7 @@ Problem
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Virendra2406087/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Virendra2406087/DSA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1975-maximum-matrix-sum](https://github.com/Virendra2406087/DSA/tree/master/1975-maximum-matrix-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Virendra2406087/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Virendra2406087/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Virendra2406087/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Virendra2406087/DSA/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -1840,4 +1843,5 @@ Problem
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Virendra2406087/DSA/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
