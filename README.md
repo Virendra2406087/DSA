@@ -427,6 +427,7 @@ Problem
 | [1528-shuffle-string](https://github.com/Virendra2406087/DSA/tree/master/1528-shuffle-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Virendra2406087/DSA/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Virendra2406087/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/Virendra2406087/DSA/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Virendra2406087/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Virendra2406087/DSA/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -510,6 +511,7 @@ Problem
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Virendra2406087/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Virendra2406087/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Virendra2406087/DSA/tree/master/2000-reverse-prefix-of-word) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Virendra2406087/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Virendra2406087/DSA/tree/master/2390-removing-stars-from-a-string) |
@@ -1414,6 +1416,7 @@ Problem
 | [1103-distribute-candies-to-people](https://github.com/Virendra2406087/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/Virendra2406087/DSA/tree/master/1260-shift-2d-grid) |
 | [1441-build-an-array-with-stack-operations](https://github.com/Virendra2406087/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Virendra2406087/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Virendra2406087/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Virendra2406087/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
