@@ -1796,6 +1796,7 @@ Problem
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Virendra2406087/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Virendra2406087/DSA/tree/master/0239-sliding-window-maximum) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
