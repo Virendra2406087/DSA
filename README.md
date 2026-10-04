@@ -405,6 +405,7 @@ Problem
 | [0583-delete-operation-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
 | [0648-replace-words](https://github.com/Virendra2406087/DSA/tree/master/0648-replace-words) |
+| [0678-valid-parenthesis-string](https://github.com/Virendra2406087/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/Virendra2406087/DSA/tree/master/0692-top-k-frequent-words) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -496,6 +497,7 @@ Problem
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Virendra2406087/DSA/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/Virendra2406087/DSA/tree/master/0654-maximum-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/Virendra2406087/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Virendra2406087/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Virendra2406087/DSA/tree/master/0844-backspace-string-compare) |
@@ -689,6 +691,7 @@ Problem
 | [0518-coin-change-ii](https://github.com/Virendra2406087/DSA/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/Virendra2406087/DSA/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/Virendra2406087/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Virendra2406087/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0834-sum-of-distances-in-tree](https://github.com/Virendra2406087/DSA/tree/master/0834-sum-of-distances-in-tree) |
@@ -887,6 +890,7 @@ Problem
 | [0316-remove-duplicate-letters](https://github.com/Virendra2406087/DSA/tree/master/0316-remove-duplicate-letters) |
 | [0561-array-partition](https://github.com/Virendra2406087/DSA/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Virendra2406087/DSA/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Virendra2406087/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Virendra2406087/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Virendra2406087/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1875,6 +1879,7 @@ Problem
 | ------- |
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0022-generate-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Virendra2406087/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Virendra2406087/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
