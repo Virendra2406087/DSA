@@ -412,6 +412,7 @@ Problem
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Virendra2406087/DSA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Virendra2406087/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Virendra2406087/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Virendra2406087/DSA/tree/master/0940-distinct-subsequences-ii) |
 | [0953-reverse-only-letters](https://github.com/Virendra2406087/DSA/tree/master/0953-reverse-only-letters) |
@@ -502,6 +503,7 @@ Problem
 | [0682-baseball-game](https://github.com/Virendra2406087/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Virendra2406087/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Virendra2406087/DSA/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/Virendra2406087/DSA/tree/master/0907-sum-of-subarray-minimums) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Virendra2406087/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Virendra2406087/DSA/tree/master/0946-validate-stack-sequences) |
@@ -1898,6 +1900,7 @@ Problem
 | [0020-valid-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Virendra2406087/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Virendra2406087/DSA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Virendra2406087/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
