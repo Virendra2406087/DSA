@@ -439,6 +439,7 @@ Problem
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/Virendra2406087/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/Virendra2406087/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Virendra2406087/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Virendra2406087/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Virendra2406087/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Virendra2406087/DSA/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Virendra2406087/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -1439,6 +1440,7 @@ Problem
 | [2073-time-needed-to-buy-tickets](https://github.com/Virendra2406087/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Virendra2406087/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Virendra2406087/DSA/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Virendra2406087/DSA/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Virendra2406087/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/Virendra2406087/DSA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2562-find-the-array-concatenation-value](https://github.com/Virendra2406087/DSA/tree/master/2562-find-the-array-concatenation-value) |
